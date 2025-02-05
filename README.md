@@ -5,6 +5,7 @@
 Upload a JSON with the following format to generate an interactive practice exam.
 The JSON file must use the following format:
 
+```json
 {"exam" : [
     {
         "question" : "What's the capital of France?",
@@ -14,3 +15,4 @@ The JSON file must use the following format:
     },
     ...
 ]}
+```
