@@ -1,8 +1,9 @@
 # Practice Exam
 
-[CLICK HERE](https://binder.plutojl.org/v0.19.36/open?url=https%253A%252F%252Fraw.githubusercontent.com%252Feahenle%252FMidtermReading%252Fmain%252Fnotebook.jl)
+1. [Click Here](https://binder.plutojl.org)
+2. Paste this link into the `Open a notebook` cell: [https://github.com/eahenle/MidtermReading/blob/main/notebook.jl](https://github.com/eahenle/MidtermReading/blob/main/notebook.jl)
+3. Upload a JSON to generate an interactive practice exam.
 
-Upload a JSON with the following format to generate an interactive practice exam.
 The JSON file must use the following format:
 
 ```json
@@ -13,6 +14,6 @@ The JSON file must use the following format:
         "answer" : "A. Paris",
         "explanation" : "Paris is the capital of France."
     },
-    ...
+    // additional questions...
 ]}
 ```
