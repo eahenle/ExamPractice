@@ -1,5 +1,5 @@
 ### A Pluto.jl notebook ###
-# v0.20.4
+# v0.20.3
 
 using Markdown
 using InteractiveUtils
@@ -17,7 +17,7 @@ macro bind(def, element)
 end
 
 # ╔═╡ 455c442a-e37f-11ef-08f3-8f6d4832f577
-using JSON, PlutoUI
+using JSON, PlutoUI, Random
 
 # ╔═╡ 8171d193-8735-4603-929a-69ac196fa7a7
 md"""
@@ -111,7 +111,7 @@ function format_exam_question(q, i=0)
 	# build raw markdown for question and choices
 	question, choices = q["question"], q["choices"]
 	str = "**$i. $question**"
-	for choice in choices
+	for choice in choices[randperm(length(choices))]
 		str *= "\n\n - $choice"
 	end
 	# build HTML for the answer box
@@ -144,19 +144,20 @@ PLUTO_PROJECT_TOML_CONTENTS = """
 [deps]
 JSON = "682c06a0-de6a-54ab-a142-c8b1cf79cde6"
 PlutoUI = "7f904dfe-b85e-4ff6-b463-dae2292396a8"
+Random = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"
 
 [compat]
 JSON = "~0.21.4"
-PlutoUI = "~0.7.61"
+PlutoUI = "~0.7.60"
 """
 
 # ╔═╡ 00000000-0000-0000-0000-000000000002
 PLUTO_MANIFEST_TOML_CONTENTS = """
 # This file is machine-generated - editing it directly is not advised
 
-julia_version = "1.11.3"
+julia_version = "1.11.2"
 manifest_format = "2.0"
-project_hash = "a6ffb3b502a5d84062bc2886762bb84d5e7c7051"
+project_hash = "8475575543da3a9be217345c221d2db6a600740a"
 
 [[deps.AbstractPlutoDingetjes]]
 deps = ["Pkg"]
@@ -275,9 +276,9 @@ uuid = "56ddb016-857b-54e1-b83d-db4d58db5568"
 version = "1.11.0"
 
 [[deps.MIMEs]]
-git-tree-sha1 = "1833212fd6f580c20d4291da9c1b4e8a655b128e"
+git-tree-sha1 = "65f28ad4b594aebe22157d6fac869786a255b7eb"
 uuid = "6c6e2e6c-3030-632d-7369-2d6c69616d65"
-version = "1.0.0"
+version = "0.1.4"
 
 [[deps.Markdown]]
 deps = ["Base64"]
@@ -325,9 +326,9 @@ version = "1.11.0"
 
 [[deps.PlutoUI]]
 deps = ["AbstractPlutoDingetjes", "Base64", "ColorTypes", "Dates", "FixedPointNumbers", "Hyperscript", "HypertextLiteral", "IOCapture", "InteractiveUtils", "JSON", "Logging", "MIMEs", "Markdown", "Random", "Reexport", "URIs", "UUIDs"]
-git-tree-sha1 = "7e71a55b87222942f0f9337be62e26b1f103d3e4"
+git-tree-sha1 = "eba4810d5e6a01f612b948c9fa94f905b49087b0"
 uuid = "7f904dfe-b85e-4ff6-b463-dae2292396a8"
-version = "0.7.61"
+version = "0.7.60"
 
 [[deps.PrecompileTools]]
 deps = ["Preferences"]
@@ -392,9 +393,9 @@ uuid = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
 version = "1.11.0"
 
 [[deps.Tricks]]
-git-tree-sha1 = "6cae795a5a9313bbb4f60683f7263318fc7d1505"
+git-tree-sha1 = "7822b97e99a1672bfb1b49b668a6d46d58d8cbcb"
 uuid = "410a4b4d-49e4-4fbc-ab6d-cb71b17b3775"
-version = "0.1.10"
+version = "0.1.9"
 
 [[deps.URIs]]
 git-tree-sha1 = "67db6cc7b3821e19ebe75791a9dd19c9b1188f2b"
