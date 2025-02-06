@@ -130,7 +130,7 @@ end;
 function format_exam(questions)
 	# fill in template w/ question divs
 	qs_formatted = join(
-		format_exam_question.(questions, eachindex(questions)) .* "\n"
+		format_exam_question.(questions[randperm(length(questions))], eachindex(questions)) .* "\n"
 	)
 	str = replace(html_template, "{question_divs}" => qs_formatted)
 	return HTML(str)
