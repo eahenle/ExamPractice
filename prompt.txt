@@ -1,0 +1,14 @@
+Create 25 nursing school exam questions using the attached material. The questions must be multiple choice, with four choices each, and the correct answer and an explanation of the answer must be provided. Do not prefix questions or choices with ordinals such as "A." or "1."
+
+Format the questions into a JSON object with the following structure:
+```json
+{"exam" : [
+    {
+        "question" : "What is the capital of France?",
+        "choices" : ["New York", "Tokyo", "Paris", "Bangkok"],
+        "answer" : "Paris",
+        "explanation" : "Paris is the only city on the list that's even in Europe."
+    },
+    // etc.
+]}
+``` 
