@@ -1,0 +1,279 @@
+{
+  "exam": [
+    {
+      "question": "Which statement best distinguishes a primary endocrine disorder from a secondary endocrine disorder?",
+      "choices": [
+        "Primary disorders originate in the endocrine gland itself, while secondary disorders result from pituitary gland failure.",
+        "Primary disorders are always due to autoimmune destruction, whereas secondary disorders are genetic.",
+        "Primary disorders always cause hypersecretion, while secondary disorders always cause hyposecretion.",
+        "Primary disorders involve abnormal receptor function, while secondary disorders involve abnormal hormone structure."
+      ],
+      "answer": "Primary disorders originate in the endocrine gland itself, while secondary disorders result from pituitary gland failure.",
+      "explanation": "In primary endocrine disorders the pathology is within the endocrine gland itself, leading to altered hormone production and corresponding pituitary hormone changes, whereas in secondary disorders the pituitary fails to stimulate the target gland properly."
+    },
+    {
+      "question": "What is the most common cause of hypothyroidism in the United States?",
+      "choices": [
+        "Graves' disease",
+        "Hashimoto's thyroiditis",
+        "Cushing's disease",
+        "Addison's disease"
+      ],
+      "answer": "Hashimoto's thyroiditis",
+      "explanation": "Hashimoto's thyroiditis, an autoimmune condition causing gradual thyroid failure, is the most common cause of hypothyroidism in the U.S."
+    },
+    {
+      "question": "Which laboratory findings are most characteristic in a patient with Hashimoto's thyroiditis?",
+      "choices": [
+        "Increased TSH and decreased free T4",
+        "Decreased TSH and increased free T4",
+        "Increased TSH and increased free T4",
+        "Decreased TSH and decreased free T4"
+      ],
+      "answer": "Increased TSH and decreased free T4",
+      "explanation": "The destruction of thyroid tissue in Hashimoto's thyroiditis leads to low levels of thyroid hormones, which triggers a compensatory increase in TSH secretion."
+    },
+    {
+      "question": "A patient presents with weight loss, heat intolerance, and exophthalmos. Which thyroid disorder is most consistent with these findings?",
+      "choices": [
+        "Hashimoto's thyroiditis",
+        "Graves' disease",
+        "Addison's disease",
+        "Cushing's disease"
+      ],
+      "answer": "Graves' disease",
+      "explanation": "Graves' disease is characterized by hyperthyroidism, with features such as weight loss, heat intolerance, and the distinctive exophthalmos resulting from autoimmune stimulation."
+    },
+    {
+      "question": "Which complication is a life-threatening consequence of severe or prolonged hypothyroidism?",
+      "choices": [
+        "Thyroid storm",
+        "Myxedema coma",
+        "Diabetic ketoacidosis",
+        "Hyperosmolar hyperglycemic state"
+      ],
+      "answer": "Myxedema coma",
+      "explanation": "Myxedema coma is a severe complication of prolonged hypothyroidism marked by decreased consciousness, hypothermia, and other systemic decompensations, making it life-threatening."
+    },
+    {
+      "question": "Which clinical feature is most indicative of Graves' disease?",
+      "choices": [
+        "Cold intolerance",
+        "Constipation",
+        "Exophthalmos",
+        "Weight gain"
+      ],
+      "answer": "Exophthalmos",
+      "explanation": "Exophthalmos, or bulging eyes, is a classic sign of Graves' disease and is not seen in hypothyroid conditions like Hashimoto's thyroiditis."
+    },
+    {
+      "question": "What typical laboratory findings would you expect in a patient with Graves' disease?",
+      "choices": [
+        "Decreased TSH with increased T3 and T4",
+        "Increased TSH with decreased T3 and T4",
+        "Decreased TSH with decreased T3 and T4",
+        "Increased TSH with increased T3 and T4"
+      ],
+      "answer": "Decreased TSH with increased T3 and T4",
+      "explanation": "In Graves' disease, excessive production of thyroid hormones suppresses TSH secretion via negative feedback, leading to low TSH and high T3 and T4 levels."
+    },
+    {
+      "question": "Which endocrine disorder is characterized by autoimmune destruction of the adrenal cortex leading to decreased cortisol production?",
+      "choices": [
+        "Cushing's disease",
+        "Addison's disease",
+        "Graves' disease",
+        "Hashimoto's thyroiditis"
+      ],
+      "answer": "Addison's disease",
+      "explanation": "Addison's disease involves the autoimmune or infectious destruction of the adrenal cortex, resulting in a deficiency of cortisol and other adrenal hormones."
+    },
+    {
+      "question": "What laboratory findings are typically seen in Addison's disease?",
+      "choices": [
+        "Low plasma cortisol and high ACTH",
+        "High plasma cortisol and low ACTH",
+        "Low plasma cortisol and low ACTH",
+        "High plasma cortisol and high ACTH"
+      ],
+      "answer": "Low plasma cortisol and high ACTH",
+      "explanation": "In primary adrenal insufficiency (Addison's disease), the adrenal gland fails to produce cortisol, leading to an increase in ACTH due to the loss of negative feedback."
+    },
+    {
+      "question": "Which nursing management strategy is most appropriate for a patient with Addison's disease?",
+      "choices": [
+        "Ensure lifelong hormone replacement therapy with dose adjustments during stress.",
+        "Discontinue hormone therapy once symptoms improve.",
+        "Maintain a fixed hormone replacement dose regardless of stress levels.",
+        "Rely solely on dietary modifications without hormone therapy."
+      ],
+      "answer": "Ensure lifelong hormone replacement therapy with dose adjustments during stress.",
+      "explanation": "Patients with Addison's disease require lifelong hormone replacement, and doses must be increased during stress, illness, or surgery to meet the body's increased demands."
+    },
+    {
+      "question": "What is the primary cause of Cushing's disease?",
+      "choices": [
+        "Exogenous steroid use",
+        "Pituitary adenomas secreting ACTH",
+        "Autoimmune destruction of the adrenal cortex",
+        "Thyroid hormone resistance"
+      ],
+      "answer": "Pituitary adenomas secreting ACTH",
+      "explanation": "Cushing's disease is specifically caused by a pituitary adenoma that secretes excess ACTH, leading to overstimulation of the adrenal cortex and cortisol overproduction."
+    },
+    {
+      "question": "A patient presents with a round, flushed face, weight gain, thin skin, and purple striae. Which condition do these findings most likely indicate?",
+      "choices": [
+        "Addison's disease",
+        "Cushing's disease",
+        "Graves' disease",
+        "Hashimoto's thyroiditis"
+      ],
+      "answer": "Cushing's disease",
+      "explanation": "The clinical features described are hallmark signs of Cushing's disease, which results from prolonged exposure to high levels of cortisol."
+    },
+    {
+      "question": "Which nursing implication is important when caring for a patient with Cushing's disease?",
+      "choices": [
+        "Educate the patient about the possibility of surgical interventions such as trans-sphenoidal hypophysectomy.",
+        "Disregard laboratory monitoring after diagnosis.",
+        "Avoid discussing potential complications to prevent anxiety.",
+        "Encourage a high sodium diet to counteract cortisol effects."
+      ],
+      "answer": "Educate the patient about the possibility of surgical interventions such as trans-sphenoidal hypophysectomy.",
+      "explanation": "Management of Cushing's disease often involves surgical procedures like trans-sphenoidal hypophysectomy and requires thorough patient education regarding treatment and lab monitoring."
+    },
+    {
+      "question": "Type 1 diabetes mellitus is primarily caused by which mechanism?",
+      "choices": [
+        "Insulin resistance",
+        "Destruction of pancreatic β cells",
+        "Obesity-related inflammation",
+        "Genetic mutations in insulin receptors"
+      ],
+      "answer": "Destruction of pancreatic β cells",
+      "explanation": "Type 1 diabetes is an autoimmune condition in which the body's immune system destroys the pancreatic β cells, resulting in an absolute insulin deficiency."
+    },
+    {
+      "question": "Which of the following processes is responsible for the development of diabetic ketoacidosis in type 1 diabetes?",
+      "choices": [
+        "Excess insulin production",
+        "Increased lipolysis leading to ketone production",
+        "Insulin resistance with no ketone formation",
+        "Enhanced glycogen storage"
+      ],
+      "answer": "Increased lipolysis leading to ketone production",
+      "explanation": "The absence of insulin in type 1 diabetes triggers increased lipolysis, which results in the production of ketone bodies and leads to diabetic ketoacidosis."
+    },
+    {
+      "question": "Which set of laboratory criteria is used in the diagnosis of type 2 diabetes mellitus?",
+      "choices": [
+        "Random blood glucose > 200 mg/dL with symptoms, fasting blood glucose > 126 mg/dL, or HbA1c > 6.5%",
+        "Fasting blood glucose < 70 mg/dL",
+        "Random blood glucose < 100 mg/dL",
+        "HbA1c < 5.0%"
+      ],
+      "answer": "Random blood glucose > 200 mg/dL with symptoms, fasting blood glucose > 126 mg/dL, or HbA1c > 6.5%",
+      "explanation": "The diagnosis of type 2 diabetes mellitus is based on these standard criteria, which include abnormal blood glucose levels or HbA1c measurements."
+    },
+    {
+      "question": "Which complication is most commonly associated with chronic hyperglycemia in diabetes mellitus?",
+      "choices": [
+        "Acute respiratory failure",
+        "Peripheral neuropathy",
+        "Thyroid storm",
+        "Myxedema coma"
+      ],
+      "answer": "Peripheral neuropathy",
+      "explanation": "Chronic hyperglycemia in diabetes leads to microvascular complications, including peripheral neuropathy, as a result of damage to small blood vessels supplying nerves."
+    },
+    {
+      "question": "Which risk factor is NOT commonly associated with gestational diabetes?",
+      "choices": [
+        "Obesity",
+        "History of gestational diabetes",
+        "Advanced maternal age",
+        "Low pre-pregnancy weight"
+      ],
+      "answer": "Low pre-pregnancy weight",
+      "explanation": "Gestational diabetes is typically linked to obesity, previous gestational diabetes, and advanced maternal age; low pre-pregnancy weight is not a common risk factor."
+    },
+    {
+      "question": "What is the primary goal of nursing management for patients with diabetes mellitus?",
+      "choices": [
+        "Achieve tight glycemic control to prevent complications",
+        "Encourage the patient to ignore symptoms of hypoglycemia",
+        "Promote high-fat diets to increase energy",
+        "Limit physical activity to reduce glucose fluctuations"
+      ],
+      "answer": "Achieve tight glycemic control to prevent complications",
+      "explanation": "Effective nursing management in diabetes focuses on maintaining blood glucose levels within target ranges to prevent both acute and chronic complications."
+    },
+    {
+      "question": "Which statement best describes the pathophysiology of type 2 diabetes mellitus?",
+      "choices": [
+        "It is caused by autoimmune destruction of pancreatic β cells.",
+        "It results from insulin resistance combined with β cell dysfunction.",
+        "It is due to excessive insulin production.",
+        "It arises from inadequate glucagon secretion."
+      ],
+      "answer": "It results from insulin resistance combined with β cell dysfunction.",
+      "explanation": "Type 2 diabetes mellitus primarily involves insulin resistance along with a relative deficiency in insulin secretion due to β cell dysfunction."
+    },
+    {
+      "question": "Which screening recommendation is appropriate for type 2 diabetes mellitus?",
+      "choices": [
+        "Adults over age 45 should be screened at least every 3 years.",
+        "Only children with obesity should be screened.",
+        "Screening is unnecessary in asymptomatic adults.",
+        "Screening should be done only once in a lifetime."
+      ],
+      "answer": "Adults over age 45 should be screened at least every 3 years.",
+      "explanation": "Current guidelines recommend screening adults over 45 years at least every 3 years, or more frequently if additional risk factors are present."
+    },
+    {
+      "question": "Which description best fits metabolic syndrome in relation to glucose metabolism?",
+      "choices": [
+        "It represents an intermediate stage between normal glucose metabolism and type 2 diabetes mellitus.",
+        "It is equivalent to type 1 diabetes mellitus.",
+        "It is a form of hyperthyroidism.",
+        "It results from adrenal insufficiency."
+      ],
+      "answer": "It represents an intermediate stage between normal glucose metabolism and type 2 diabetes mellitus.",
+      "explanation": "Metabolic syndrome is characterized by impaired fasting glucose tolerance and is considered a precursor to type 2 diabetes mellitus, with associated cardiovascular risks."
+    },
+    {
+      "question": "When educating a pediatric patient with diabetes mellitus, what is an essential nursing consideration?",
+      "choices": [
+        "Focusing on achieving normal growth and development along with self-care education for the child and family.",
+        "Minimizing family involvement to promote independence.",
+        "Emphasizing strict isolation to prevent complications.",
+        "Ignoring psychosocial issues in favor of only medical management."
+      ],
+      "answer": "Focusing on achieving normal growth and development along with self-care education for the child and family.",
+      "explanation": "Pediatric diabetes management involves ensuring normal growth and development as well as educating both the child and family about self-care and psychosocial support."
+    },
+    {
+      "question": "Which of the following best describes the acute manifestations of hypoglycemia in diabetic patients?",
+      "choices": [
+        "Loss of consciousness, tremors, and diaphoresis",
+        "Weight gain and hypertension",
+        "Chronic hyperglycemia with neuropathy",
+        "Thyroid dysfunction with cold intolerance"
+      ],
+      "answer": "Loss of consciousness, tremors, and diaphoresis",
+      "explanation": "Hypoglycemia is characterized by symptoms such as tremors, diaphoresis, and in severe cases, loss of consciousness, due to insufficient glucose for brain function."
+    },
+    {
+      "question": "Which nursing intervention is most important when managing patients with endocrine disorders involving abnormal hormone secretion?",
+      "choices": [
+        "Monitoring laboratory values and educating patients about recognizing signs and symptoms of imbalance",
+        "Relying solely on patient-reported symptoms without lab tests",
+        "Skipping follow-up appointments once treatment is initiated",
+        "Avoiding patient education to prevent anxiety about their condition"
+      ],
+      "answer": "Monitoring laboratory values and educating patients about recognizing signs and symptoms of imbalance",
+      "explanation": "Effective management of endocrine disorders involves regular lab monitoring to track hormone levels and educating patients so they can recognize early signs of complications."
+    }
+  ]
+}

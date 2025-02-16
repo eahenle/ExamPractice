@@ -13,12 +13,12 @@ exam = Dict(
 		vcat,
 		(joinpath("data", f) |> read |> String |> JSON.parse)["exam"] 
 			for f in readdir("data") 
-			if endswith(f, ".json") && ! startswith(f, "COMBINED")
+			if endswith(f, ".json") && ! startswith(f, "COMPREHENSIVE")
 	)
 )
 
 # ╔═╡ 4824a588-9755-44ca-b9f0-695a51642098
-open("data/COMBINED.json", "w") do f
+open("data/COMPREHENSIVE.json", "w") do f
 	print(f, JSON.json(exam))
 end
 

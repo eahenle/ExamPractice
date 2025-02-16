@@ -1,0 +1,279 @@
+{
+  "exam": [
+    {
+      "question": "Which statement best describes the mechanism of action of HMG‑CoA reductase inhibitors (statins)?",
+      "choices": [
+        "They bind bile acids to decrease cholesterol absorption",
+        "They inhibit the enzyme HMG‑CoA reductase, reducing endogenous cholesterol synthesis",
+        "They increase HDL by inhibiting triglyceride synthesis",
+        "They block angiotensin II receptors to reduce vascular resistance"
+      ],
+      "answer": "They inhibit the enzyme HMG‑CoA reductase, reducing endogenous cholesterol synthesis",
+      "explanation": "Statins lower cholesterol by inhibiting the rate‑limiting enzyme HMG‑CoA reductase, thereby reducing the liver’s endogenous cholesterol production."
+    },
+    {
+      "question": "When should a patient take a statin such as atorvastatin to optimize its effect?",
+      "choices": [
+        "Take it in the morning with a high‑fat meal",
+        "Take it in the evening with dinner",
+        "Take it on an empty stomach before bedtime",
+        "Take it with any meal as long as it is consistent"
+      ],
+      "answer": "Take it in the evening with dinner",
+      "explanation": "Cholesterol synthesis peaks at night, making evening administration of statins more effective."
+    },
+    {
+      "question": "A patient on statin therapy reports muscle aches and weakness. Which adverse effect is most concerning?",
+      "choices": [
+        "Severe cough",
+        "Rhabdomyolysis",
+        "Hypotension",
+        "Constipation"
+      ],
+      "answer": "Rhabdomyolysis",
+      "explanation": "Muscle aches and weakness in a patient on statins may indicate rhabdomyolysis, a rare but serious adverse effect."
+    },
+    {
+      "question": "What common adverse effect is associated with niacin (Niaspan) therapy?",
+      "choices": [
+        "Dry cough",
+        "Facial flushing",
+        "Hypokalemia",
+        "Insomnia"
+      ],
+      "answer": "Facial flushing",
+      "explanation": "Niacin is known to cause facial flushing due to its vasodilatory properties."
+    },
+    {
+      "question": "How can a nurse help reduce the facial flushing caused by niacin?",
+      "choices": [
+        "Take the medication with a meal",
+        "Take 325 mg aspirin 30 minutes prior",
+        "Drink a glass of milk before dosing",
+        "Avoid exercise immediately after taking niacin"
+      ],
+      "answer": "Take 325 mg aspirin 30 minutes prior",
+      "explanation": "Taking aspirin before niacin can inhibit prostaglandin release and reduce the flushing response."
+    },
+    {
+      "question": "What instruction should be given to a patient taking a bile‑acid sequestrant such as colesevelam?",
+      "choices": [
+        "Take it with other medications to enhance absorption",
+        "Increase dietary protein intake",
+        "Separate other medications by at least 1 hour before or 4 hours after dosing",
+        "Avoid fluids during administration"
+      ],
+      "answer": "Separate other medications by at least 1 hour before or 4 hours after dosing",
+      "explanation": "Bile‑acid sequestrants can bind other drugs in the GI tract, so spacing out administration helps ensure proper absorption of all medications."
+    },
+    {
+      "question": "Which laboratory test is most important to obtain before initiating statin therapy?",
+      "choices": [
+        "Serum potassium levels",
+        "Complete blood count (CBC)",
+        "Liver function tests (LFTs)",
+        "Blood urea nitrogen (BUN)"
+      ],
+      "answer": "Liver function tests (LFTs)",
+      "explanation": "Statins may cause hepatotoxicity, so baseline and periodic liver function tests are essential for monitoring."
+    },
+    {
+      "question": "Which patient is contraindicated for niacin therapy?",
+      "choices": [
+        "A patient with diabetes",
+        "A patient with active liver disease",
+        "A patient with a history of heart failure",
+        "A patient with hypercholesterolemia"
+      ],
+      "answer": "A patient with active liver disease",
+      "explanation": "Niacin is contraindicated in patients with active liver disease due to its potential hepatotoxic effects."
+    },
+    {
+      "question": "Fibric acid derivatives (fibrates) are most effective in treating which lipid abnormality?",
+      "choices": [
+        "Elevated LDL cholesterol",
+        "Low HDL cholesterol",
+        "Elevated triglycerides",
+        "Elevated total cholesterol"
+      ],
+      "answer": "Elevated triglycerides",
+      "explanation": "Fibrates primarily lower triglyceride levels by inhibiting triglyceride synthesis."
+    },
+    {
+      "question": "Combining fibrates with statins increases the risk of which adverse effect?",
+      "choices": [
+        "Enhanced hepatotoxicity",
+        "Hyperglycemia",
+        "Rhabdomyolysis",
+        "Exacerbation of cough"
+      ],
+      "answer": "Rhabdomyolysis",
+      "explanation": "The concurrent use of fibrates and statins heightens the risk of muscle toxicity, including rhabdomyolysis."
+    },
+    {
+      "question": "Which lipoprotein is commonly referred to as 'bad cholesterol'?",
+      "choices": [
+        "High-density lipoprotein (HDL)",
+        "Very-low-density lipoprotein (VLDL)",
+        "Low-density lipoprotein (LDL)",
+        "Chylomicrons"
+      ],
+      "answer": "Low-density lipoprotein (LDL)",
+      "explanation": "LDL is considered 'bad cholesterol' because high levels are associated with an increased risk of coronary heart disease."
+    },
+    {
+      "question": "What are the first-line nonpharmacologic interventions for managing hyperlipidemia?",
+      "choices": [
+        "Statin therapy and fibrates",
+        "Bile‑acid sequestrants and niacin",
+        "Dietary modifications, exercise, weight control, and smoking cessation",
+        "Diuretics and beta blockers"
+      ],
+      "answer": "Dietary modifications, exercise, weight control, and smoking cessation",
+      "explanation": "Lifestyle changes are the first-line management for hyperlipidemia before pharmacologic interventions are considered."
+    },
+    {
+      "question": "Which diuretic is considered first-line therapy for hypertension in patients with normal renal function?",
+      "choices": [
+        "Loop diuretics",
+        "Thiazide diuretics",
+        "Potassium‑sparing diuretics",
+        "Carbonic anhydrase inhibitors"
+      ],
+      "answer": "Thiazide diuretics",
+      "explanation": "Thiazide diuretics are generally the first choice for treating hypertension in patients with a normal glomerular filtration rate."
+    },
+    {
+      "question": "For a patient with decreased glomerular filtration rate (GFR) requiring diuretic therapy, which class of diuretics is most appropriate?",
+      "choices": [
+        "Thiazide diuretics",
+        "Loop diuretics",
+        "Potassium‑sparing diuretics",
+        "Osmotic diuretics"
+      ],
+      "answer": "Loop diuretics",
+      "explanation": "Loop diuretics are preferred in patients with low GFR because they are more effective in producing diuresis under these conditions."
+    },
+    {
+      "question": "How do ACE inhibitors such as enalapril lower blood pressure?",
+      "choices": [
+        "By blocking angiotensin II receptors",
+        "By preventing the formation of angiotensin II",
+        "By directly dilating arterioles",
+        "By increasing renal sodium excretion by blocking aldosterone receptors"
+      ],
+      "answer": "By preventing the formation of angiotensin II",
+      "explanation": "ACE inhibitors inhibit the conversion of angiotensin I to angiotensin II, leading to reduced vasoconstriction and aldosterone secretion."
+    },
+    {
+      "question": "What is a common adverse effect of ACE inhibitors that patients should be informed about?",
+      "choices": [
+        "Bradycardia",
+        "Dry, persistent cough",
+        "Hyperglycemia",
+        "Insomnia"
+      ],
+      "answer": "Dry, persistent cough",
+      "explanation": "ACE inhibitors often cause a dry cough due to the accumulation of bradykinin, a side effect that patients should be aware of."
+    },
+    {
+      "question": "Which condition contraindicates the use of ACE inhibitors?",
+      "choices": [
+        "Hypertensive urgency",
+        "Bilateral renal artery stenosis",
+        "Type 2 diabetes mellitus",
+        "Hyperlipidemia"
+      ],
+      "answer": "Bilateral renal artery stenosis",
+      "explanation": "ACE inhibitors are contraindicated in patients with bilateral renal artery stenosis because they can precipitate renal failure."
+    },
+    {
+      "question": "Compared to ACE inhibitors, which adverse effect is less likely to occur with angiotensin II receptor blockers (ARBs)?",
+      "choices": [
+        "Hypotension",
+        "Hyperkalemia",
+        "Dry cough",
+        "Renal failure"
+      ],
+      "answer": "Dry cough",
+      "explanation": "ARBs do not increase bradykinin levels, making them less likely to cause the dry cough commonly seen with ACE inhibitors."
+    },
+    {
+      "question": "When a patient is on aldosterone antagonist therapy such as eplerenone, which laboratory value should be monitored most closely?",
+      "choices": [
+        "Serum sodium",
+        "Serum potassium",
+        "Blood glucose",
+        "Liver enzymes"
+      ],
+      "answer": "Serum potassium",
+      "explanation": "Aldosterone antagonists can lead to hyperkalemia, so monitoring serum potassium levels is critical."
+    },
+    {
+      "question": "How do direct‑acting vasodilators like hydralazine primarily lower blood pressure?",
+      "choices": [
+        "By blocking beta receptors in the heart",
+        "By selectively dilating arterioles, reducing afterload",
+        "By inhibiting the renin–angiotensin–aldosterone system",
+        "By increasing cardiac contractility"
+      ],
+      "answer": "By selectively dilating arterioles, reducing afterload",
+      "explanation": "Hydralazine works by dilating arterioles, which decreases peripheral resistance and thus lowers blood pressure."
+    },
+    {
+      "question": "What adverse effect is most associated with hydralazine that may necessitate adjunct therapy?",
+      "choices": [
+        "Dry cough",
+        "Reflex tachycardia",
+        "Hyperkalemia",
+        "Constipation"
+      ],
+      "answer": "Reflex tachycardia",
+      "explanation": "Hydralazine can cause reflex tachycardia due to its vasodilatory effect, often requiring the addition of a beta‑blocker to control heart rate."
+    },
+    {
+      "question": "What is the primary mechanism of action of clonidine in managing hypertension?",
+      "choices": [
+        "Blocking angiotensin II receptors",
+        "Activation of alpha‑2 receptors in the CNS to reduce sympathetic outflow",
+        "Direct relaxation of vascular smooth muscle",
+        "Inhibition of aldosterone release"
+      ],
+      "answer": "Activation of alpha‑2 receptors in the CNS to reduce sympathetic outflow",
+      "explanation": "Clonidine lowers blood pressure by stimulating alpha‑2 receptors in the central nervous system, which reduces sympathetic nervous system activity."
+    },
+    {
+      "question": "Why is it important to taper the dose of clonidine gradually when discontinuing therapy?",
+      "choices": [
+        "To prevent rebound hypertension",
+        "To avoid sedation",
+        "To enhance its vasodilatory effects",
+        "To reduce the risk of orthostatic hypotension"
+      ],
+      "answer": "To prevent rebound hypertension",
+      "explanation": "Abrupt discontinuation of clonidine can lead to rebound hypertension, making a gradual taper essential."
+    },
+    {
+      "question": "Eplerenone levels may be increased when taken with drugs that inhibit which enzyme?",
+      "choices": [
+        "CYP3A4",
+        "CYP2D6",
+        "ACE",
+        "HMG‑CoA reductase"
+      ],
+      "answer": "CYP3A4",
+      "explanation": "Eplerenone is metabolized by CYP3A4; inhibitors of this enzyme can elevate its levels and increase the risk of adverse effects."
+    },
+    {
+      "question": "What is a key nursing priority when managing a patient on antihypertensive therapy?",
+      "choices": [
+        "Encouraging a high‑sodium diet",
+        "Monitoring for signs of hypotension and teaching proper blood pressure self‑monitoring",
+        "Advising the patient to increase caffeine intake",
+        "Recommending prolonged bed rest"
+      ],
+      "answer": "Monitoring for signs of hypotension and teaching proper blood pressure self‑monitoring",
+      "explanation": "Monitoring for hypotension and educating the patient on how to accurately self‑monitor blood pressure are essential components of safe antihypertensive therapy management."
+    }
+  ]
+}

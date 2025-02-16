@@ -1,0 +1,257 @@
+{
+  "exam": [
+    {
+      "question": "What is an antibiotic?",
+      "choices": [
+        "A chemical produced by one microbe that can inhibit or kill another microbe",
+        "A synthetic compound that enhances immune function",
+        "Any agent that suppresses inflammation",
+        "A natural hormone used to regulate body functions"
+      ],
+      "answer": "A chemical produced by one microbe that can inhibit or kill another microbe",
+      "explanation": "The lecture defines an antibiotic as a chemical produced by one microbe that has the ability to harm other microorganisms."
+    },
+    {
+      "question": "Which of the following best defines an antimicrobial agent?",
+      "choices": [
+        "An agent that exclusively kills bacteria",
+        "Any agent that has the ability to kill or suppress microorganisms",
+        "A substance produced by the human body to fight infection",
+        "A synthetic drug that boosts the immune system"
+      ],
+      "answer": "Any agent that has the ability to kill or suppress microorganisms",
+      "explanation": "An antimicrobial agent is defined as any substance capable of killing or inhibiting the growth of microorganisms, which includes antibiotics as well as other agents."
+    },
+    {
+      "question": "What is the primary difference between bactericidal and bacteriostatic antibiotics?",
+      "choices": [
+        "Bactericidal antibiotics kill bacteria while bacteriostatic antibiotics inhibit bacterial growth",
+        "Bactericidal antibiotics inhibit protein synthesis while bacteriostatic antibiotics disrupt cell walls",
+        "Bactericidal antibiotics are only effective against gram-positive bacteria while bacteriostatic are effective against gram-negative bacteria",
+        "Bactericidal antibiotics are used only in hospital settings while bacteriostatic are used in outpatient care"
+      ],
+      "answer": "Bactericidal antibiotics kill bacteria while bacteriostatic antibiotics inhibit bacterial growth",
+      "explanation": "Bactericidal drugs directly kill bacteria, whereas bacteriostatic drugs stop bacteria from multiplying, as described in the lecture."
+    },
+    {
+      "question": "Which mechanism involves the direct transfer of resistance genes between bacteria?",
+      "choices": [
+        "Spontaneous mutation",
+        "Conjugation",
+        "Transformation",
+        "Transduction"
+      ],
+      "answer": "Conjugation",
+      "explanation": "Conjugation is the process by which bacteria directly transfer genetic material, including resistance genes, to each other."
+    },
+    {
+      "question": "What is the primary rationale for combining a beta-lactam antibiotic with a beta-lactamase inhibitor?",
+      "choices": [
+        "To reduce adverse effects",
+        "To enhance absorption",
+        "To extend the antimicrobial spectrum by inhibiting beta-lactamase enzymes",
+        "To decrease the frequency of dosing"
+      ],
+      "answer": "To extend the antimicrobial spectrum by inhibiting beta-lactamase enzymes",
+      "explanation": "Beta-lactamase inhibitors are used with beta-lactam antibiotics to block the bacterial enzymes that would otherwise inactivate the antibiotic, thereby broadening its spectrum of activity."
+    },
+    {
+      "question": "Which penicillin is classified as narrow-spectrum?",
+      "choices": [
+        "Penicillin G (Benzylpenicillin)",
+        "Ampicillin",
+        "Amoxicillin",
+        "Oxacillin"
+      ],
+      "answer": "Penicillin G (Benzylpenicillin)",
+      "explanation": "Penicillin G is recognized as a narrow-spectrum antibiotic, primarily effective against gram-positive organisms."
+    },
+    {
+      "question": "What adverse effect is most commonly associated with penicillin administration?",
+      "choices": [
+        "Nephrotoxicity",
+        "Drug allergy",
+        "Photosensitivity",
+        "Tendon rupture"
+      ],
+      "answer": "Drug allergy",
+      "explanation": "Penicillins are well known for causing allergic reactions, making drug allergy the most common adverse effect."
+    },
+    {
+      "question": "Which broad-spectrum penicillin is known to cause rash and diarrhea?",
+      "choices": [
+        "Penicillin V",
+        "Ampicillin",
+        "Penicillin G",
+        "Dicloxacillin"
+      ],
+      "answer": "Ampicillin",
+      "explanation": "Ampicillin, a broad-spectrum penicillin, is associated with side effects such as rash and diarrhea."
+    },
+    {
+      "question": "Why should penicillins and aminoglycosides be administered separately?",
+      "choices": [
+        "To prevent drug inactivation and ensure synergistic effects",
+        "Because they have conflicting routes of elimination",
+        "To minimize gastrointestinal side effects",
+        "To reduce the risk of allergic reactions"
+      ],
+      "answer": "To prevent drug inactivation and ensure synergistic effects",
+      "explanation": "Administering penicillins and aminoglycosides separately is important to maintain their synergistic antibacterial effect, as simultaneous administration can reduce their efficacy."
+    },
+    {
+      "question": "Which adverse effect is associated with cephalosporin administration?",
+      "choices": [
+        "Tinnitus",
+        "Thrombophlebitis at the IV site",
+        "Hepatotoxicity",
+        "Hypersensitivity reactions"
+      ],
+      "answer": "Thrombophlebitis at the IV site",
+      "explanation": "Cephalosporins are noted to cause thrombophlebitis at the site of IV administration, as indicated in the lecture."
+    },
+    {
+      "question": "Which drug interaction with ceftriaxone can lead to fatal precipitates?",
+      "choices": [
+        "Antacids",
+        "Calcium-containing products",
+        "Probenecid",
+        "Iron supplements"
+      ],
+      "answer": "Calcium-containing products",
+      "explanation": "Ceftriaxone can form fatal precipitates when it interacts with calcium-containing products, such as milk or calcium supplements."
+    },
+    {
+      "question": "What is a key limitation of the carbapenem imipenem?",
+      "choices": [
+        "It has a narrow spectrum",
+        "It is ineffective against MRSA",
+        "It causes severe hepatotoxicity",
+        "It requires oral administration"
+      ],
+      "answer": "It is ineffective against MRSA",
+      "explanation": "Imipenem is a broad-spectrum antibiotic but is not active against MRSA, which limits its use in infections caused by this resistant organism."
+    },
+    {
+      "question": "Which adverse effects are of greatest concern with vancomycin therapy?",
+      "choices": [
+        "Ototoxicity and nephrotoxicity",
+        "Photosensitivity",
+        "QT prolongation",
+        "Gastrointestinal bleeding"
+      ],
+      "answer": "Ototoxicity and nephrotoxicity",
+      "explanation": "Vancomycin is associated with ototoxicity and nephrotoxicity, making these the most critical adverse effects to monitor during therapy."
+    },
+    {
+      "question": "In patients allergic to penicillin, which antibiotic class is often used as an alternative?",
+      "choices": [
+        "Macrolides",
+        "Aminoglycosides",
+        "Cephalosporins",
+        "Fluoroquinolones"
+      ],
+      "answer": "Macrolides",
+      "explanation": "Macrolides, such as azithromycin, are commonly used as an alternative in patients who are allergic to penicillins."
+    },
+    {
+      "question": "Which significant adverse effect is associated with macrolide antibiotics?",
+      "choices": [
+        "QT interval prolongation",
+        "Ototoxicity",
+        "Nephrotoxicity",
+        "Hepatotoxicity"
+      ],
+      "answer": "QT interval prolongation",
+      "explanation": "Macrolides are known to cause QT interval prolongation, which can increase the risk of serious cardiac arrhythmias."
+    },
+    {
+      "question": "Tetracyclines are contraindicated in which population due to their effect on bone and teeth development?",
+      "choices": [
+        "Elderly patients",
+        "Children",
+        "Patients with renal impairment",
+        "Patients with liver disease"
+      ],
+      "answer": "Children",
+      "explanation": "Tetracyclines can interfere with the development of bones and teeth, making them contraindicated in children and pregnant women."
+    },
+    {
+      "question": "A patient on doxycycline should avoid taking which type of product concurrently to ensure proper absorption?",
+      "choices": [
+        "Calcium-containing products",
+        "Antacids containing aluminum",
+        "High-fat meals",
+        "Citrus juices"
+      ],
+      "answer": "Calcium-containing products",
+      "explanation": "Doxycycline binds with calcium, which can reduce its absorption and effectiveness, so patients should avoid calcium-containing products while on the medication."
+    },
+    {
+      "question": "For which type of infection is linezolid primarily reserved?",
+      "choices": [
+        "Gram-negative bacterial infections",
+        "Fungal infections",
+        "Infections caused by VRE and MRSA",
+        "Urinary tract infections"
+      ],
+      "answer": "Infections caused by VRE and MRSA",
+      "explanation": "Linezolid is an oxazolidinone antibiotic reserved for treating infections caused by resistant organisms such as VRE (vancomycin-resistant enterococci) and MRSA (methicillin-resistant Staphylococcus aureus)."
+    },
+    {
+      "question": "When administering gentamicin, what monitoring is crucial to prevent toxicity?",
+      "choices": [
+        "Liver function tests",
+        "Serum drug levels",
+        "Complete blood count",
+        "Electrocardiogram"
+      ],
+      "answer": "Serum drug levels",
+      "explanation": "Gentamicin requires close monitoring of serum drug levels to avoid nephrotoxicity and ototoxicity."
+    },
+    {
+      "question": "Trimethoprim-sulfamethoxazole is primarily used to treat which type of infection?",
+      "choices": [
+        "Respiratory tract infections",
+        "Urinary tract infections",
+        "Skin infections",
+        "Central nervous system infections"
+      ],
+      "answer": "Urinary tract infections",
+      "explanation": "Trimethoprim-sulfamethoxazole is commonly used for treating urinary tract infections due to its effective spectrum against the common pathogens involved."
+    },
+    {
+      "question": "What serious adverse reaction should be monitored for in patients receiving trimethoprim-sulfamethoxazole?",
+      "choices": [
+        "Stevens-Johnson syndrome",
+        "Tendon rupture",
+        "Hepatotoxicity",
+        "Cardiac arrhythmias"
+      ],
+      "answer": "Stevens-Johnson syndrome",
+      "explanation": "Trimethoprim-sulfamethoxazole has been associated with severe skin reactions such as Stevens-Johnson syndrome, making it an important adverse effect to monitor."
+    },
+    {
+      "question": "Which adverse effect is a notable risk with fluoroquinolone therapy in the elderly?",
+      "choices": [
+        "Tendon rupture",
+        "Nephrotoxicity",
+        "Photosensitivity",
+        "Gastrointestinal bleeding"
+      ],
+      "answer": "Tendon rupture",
+      "explanation": "Fluoroquinolones are known to increase the risk of tendon rupture, especially in elderly patients."
+    },
+    {
+      "question": "Which factor can decrease the absorption of fluoroquinolones?",
+      "choices": [
+        "Dairy products and antacids",
+        "High-protein meals",
+        "Increased fluid intake",
+        "Citrus juices"
+      ],
+      "answer": "Dairy products and antacids",
+      "explanation": "Fluoroquinolone absorption is reduced when taken with dairy products and antacids due to chelation, which interferes with the drug"
+    }
+  ]
+}

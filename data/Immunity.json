@@ -1,0 +1,160 @@
+{
+  "exam": [
+    {
+      "question": "Which immunologic disorder is characterized by severe, recurrent, and unusual infections?",
+      "choices": ["Chronic granulomatous disease", "Severe combined immunodeficiency (SCID)", "Common variable immunodeficiency", "IgA deficiency"],
+      "answer": "Severe combined immunodeficiency (SCID)",
+      "explanation": "SCID is marked by a profound deficiency in both T and B cell functions, leading to severe, recurrent, and unusual infections."
+    },
+    {
+      "question": "What is the primary site for HIV replication in the body?",
+      "choices": ["Lungs", "Gastrointestinal (GI) tract", "Liver", "Kidneys"],
+      "answer": "Gastrointestinal (GI) tract",
+      "explanation": "The lecture indicates that HIV most commonly replicates in the GI tract, which contributes to systemic spread and immune compromise."
+    },
+    {
+      "question": "Which diagnostic tests are used to confirm HIV infection?",
+      "choices": ["PCR and viral culture", "ELISA and Western blot", "Rapid antigen test and flow cytometry", "Immunofluorescence assay and PCR"],
+      "answer": "ELISA and Western blot",
+      "explanation": "HIV screening is typically initiated with an ELISA test followed by confirmation with a Western blot assay."
+    },
+    {
+      "question": "Which condition is commonly associated with HIV due to immunosuppression?",
+      "choices": ["Osteoarthritis", "Kaposi sarcoma", "Type 2 diabetes", "Hypertension"],
+      "answer": "Kaposi sarcoma",
+      "explanation": "Kaposi sarcoma is an opportunistic cancer frequently seen in immunosuppressed patients with HIV/AIDS."
+    },
+    {
+      "question": "What phenomenon complicates the creation of an effective HIV vaccine?",
+      "choices": ["Lack of viral envelope proteins", "High mutation rate and variability", "Low viral load", "Slow replication cycle"],
+      "answer": "High mutation rate and variability",
+      "explanation": "HIV's rapid mutation rate and genetic variability hinder the development of a vaccine that can effectively target all viral strains."
+    },
+    {
+      "question": "Which autoimmune disorders are mentioned in the lecture?",
+      "choices": ["Multiple sclerosis and Hashimoto’s thyroiditis", "Systemic lupus erythematosus (SLE) and rheumatoid arthritis (RA)", "Type 1 diabetes and celiac disease", "Psoriasis and ankylosing spondylitis"],
+      "answer": "Systemic lupus erythematosus (SLE) and rheumatoid arthritis (RA)",
+      "explanation": "The lecture directly references SLE and RA as examples of systemic autoimmune conditions."
+    },
+    {
+      "question": "What is the recommended approach in early rheumatoid arthritis to minimize later joint damage?",
+      "choices": ["Delayed pharmacologic intervention", "Early aggressive treatment", "Exclusive use of physical therapy", "Watchful waiting"],
+      "answer": "Early aggressive treatment",
+      "explanation": "Early intervention in RA is critical to minimize joint damage and long-term disability, as emphasized in the lecture."
+    },
+    {
+      "question": "In rheumatoid arthritis, what is the formation of granulation tissue in the joints known as?",
+      "choices": ["Nodule", "Synovial hyperplasia", "Pannus", "Fibrosis"],
+      "answer": "Pannus",
+      "explanation": "Pannus refers to the granulation tissue that invades and erodes cartilage and bone in rheumatoid arthritis."
+    },
+    {
+      "question": "Which type of tumor is typically non-invasive and retains its original function?",
+      "choices": ["Malignant tumor", "Benign tumor", "Metastatic tumor", "Anaplastic tumor"],
+      "answer": "Benign tumor",
+      "explanation": "Benign tumors usually do not invade surrounding tissues and often maintain the function of the tissue of origin."
+    },
+    {
+      "question": "What is a key characteristic that distinguishes malignant tumors from benign tumors?",
+      "choices": ["Retention of original tissue function", "Invasion of surrounding tissues and metastasis", "Well-circumscribed growth", "Slow rate of growth"],
+      "answer": "Invasion of surrounding tissues and metastasis",
+      "explanation": "Malignant tumors are defined by their ability to invade local tissues and spread to distant sites via the bloodstream or lymphatic system."
+    },
+    {
+      "question": "What process in malignant tumors involves the formation of new blood vessels?",
+      "choices": ["Necrosis", "Angiogenesis", "Apoptosis", "Metaplasia"],
+      "answer": "Angiogenesis",
+      "explanation": "Angiogenesis is the process by which malignant tumors stimulate the growth of new blood vessels to supply the nutrients they need for growth."
+    },
+    {
+      "question": "What is the function of a proto-oncogene in normal cells?",
+      "choices": ["Suppress cell growth", "Control cell growth and division", "Initiate programmed cell death", "Regulate immune responses"],
+      "answer": "Control cell growth and division",
+      "explanation": "Proto-oncogenes normally regulate cell growth and division; when mutated, they can become oncogenes that drive cancer development."
+    },
+    {
+      "question": "What does the mutation of a proto-oncogene result in?",
+      "choices": ["Formation of a tumor suppressor gene", "Conversion into an oncogene", "Initiation of apoptosis", "Enhanced immune surveillance"],
+      "answer": "Conversion into an oncogene",
+      "explanation": "Mutations in proto-oncogenes can convert them into oncogenes, which promote uncontrolled cellular proliferation."
+    },
+    {
+      "question": "What is the purpose of grading a tumor?",
+      "choices": ["To determine the tumor's size", "To assess the degree of cell differentiation", "To evaluate metastatic potential", "To measure hormone receptor status"],
+      "answer": "To assess the degree of cell differentiation",
+      "explanation": "Tumor grading evaluates how much the tumor cells resemble normal cells, which reflects their level of differentiation and aggressiveness."
+    },
+    {
+      "question": "What does staging of a tumor involve?",
+      "choices": ["Determining the genetic mutations", "Assessing the spread of the tumor", "Measuring the rate of cell division", "Evaluating the immune response"],
+      "answer": "Assessing the spread of the tumor",
+      "explanation": "Staging describes the extent of tumor spread throughout the body, which is critical for treatment planning and prognosis."
+    },
+    {
+      "question": "Which symptom is not commonly associated with neoplastic conditions according to the lecture?",
+      "choices": ["Pain", "Cachexia", "Immunosuppression", "Hyperactivity"],
+      "answer": "Hyperactivity",
+      "explanation": "The lecture lists pain, cachexia, immunosuppression, and bone marrow suppression as common features of neoplastic conditions; hyperactivity is not one of them."
+    },
+    {
+      "question": "What does cachexia in a patient with neoplasia most likely indicate?",
+      "choices": ["Increased muscle mass", "Fluid retention", "Severe muscle wasting and weight loss", "Enhanced metabolic function"],
+      "answer": "Severe muscle wasting and weight loss",
+      "explanation": "Cachexia is a wasting syndrome characterized by significant weight loss and muscle wasting, often seen in advanced neoplastic disease."
+    },
+    {
+      "question": "What immunologic event is a hallmark of HIV infection as mentioned in the lecture?",
+      "choices": ["Increased B-cell proliferation", "Death of memory CD4+ T cells", "Excessive neutrophil activation", "Hyperactive macrophage response"],
+      "answer": "Death of memory CD4+ T cells",
+      "explanation": "HIV infection is marked by the depletion of memory CD4+ T cells, which undermines the immune system and leads to increased susceptibility to infections."
+    },
+    {
+      "question": "Where are anti-HIV antibodies typically detected?",
+      "choices": ["Cerebrospinal fluid", "Blood", "Urine", "Saliva"],
+      "answer": "Blood",
+      "explanation": "Anti-HIV antibodies are generally detected in the blood, making serologic tests an essential tool in HIV diagnosis."
+    },
+    {
+      "question": "Which factor contributes to the rapid progression of HIV infection to AIDS?",
+      "choices": ["Low viral replication", "Selective destruction of CD4+ T cells", "Limited genetic variability", "Enhanced immune surveillance"],
+      "answer": "Selective destruction of CD4+ T cells",
+      "explanation": "The selective destruction of CD4+ T cells by HIV leads to a compromised immune system and accelerates the progression to AIDS."
+    },
+    {
+      "question": "What is a possible consequence of an excessively triggered immune response?",
+      "choices": ["Immunosuppression", "Autoimmune tissue damage", "Enhanced pathogen clearance", "Increased tolerance to allergens"],
+      "answer": "Autoimmune tissue damage",
+      "explanation": "An inappropriately triggered and excessive immune response can lead to tissue damage and the development of autoimmune conditions."
+    },
+    {
+      "question": "What are potential consequences of bone marrow suppression in a patient with neoplasia?",
+      "choices": ["Polycythemia and hypercoagulability", "Anemia and immunosuppression", "Elevated white blood cell count", "Increased bone density"],
+      "answer": "Anemia and immunosuppression",
+      "explanation": "Bone marrow suppression reduces the production of blood cells, leading to anemia and impaired immune function."
+    },
+    {
+      "question": "What is the clinical significance of staging in cancer management?",
+      "choices": ["It determines the treatment plan by assessing tumor spread", "It predicts the specific genetic mutation present", "It measures the metabolic rate of the tumor", "It evaluates the patient’s nutritional status"],
+      "answer": "It determines the treatment plan by assessing tumor spread",
+      "explanation": "Staging is used to evaluate how far cancer has spread, which is essential for selecting an appropriate treatment strategy."
+    },
+    {
+      "question": "In the context of neoplastic pathology, what does the term 'cell differentiation' refer to?",
+      "choices": ["The process by which cancer cells form new blood vessels", "The degree to which tumor cells resemble normal cells", "The speed of tumor cell division", "The mechanism of metastasis"],
+      "answer": "The degree to which tumor cells resemble normal cells",
+      "explanation": "Cell differentiation describes how much tumor cells retain the structural and functional characteristics of their cells of origin, which is a key factor in tumor grading."
+    },
+    {
+      "question": "Which factor is crucial in differentiating between benign and malignant tumors?",
+      "choices": ["Tumor size", "Retention of tissue function", "Invasion of adjacent tissues and metastasis", "Rate of cell division"],
+      "answer": "Invasion of adjacent tissues and metastasis",
+      "explanation": "Malignant tumors are distinguished by their ability to invade surrounding tissues and metastasize, unlike benign tumors which generally remain localized and retain normal tissue functions."
+    },
+    {
+      "question": "What does the lecture suggest about the variability in HIV disease progression among individuals?",
+      "choices": ["All individuals progress at the same rate regardless of treatment", "Progression varies, with individuals moving at different rates", "Disease progression is solely determined by the patient's age", "Geographical location is the main determinant of progression"],
+      "answer": "Progression varies, with individuals moving at different rates",
+      "explanation": "The lecture highlights that due to factors such as viral mutations and individual immune responses, HIV disease progression can vary significantly among patients."
+    }
+  ]
+}
