@@ -1,0 +1,279 @@
+{
+  "exam": [
+    {
+      "question": "What is personality as defined in the chapter on Personality Disorders?",
+      "choices": [
+        "A collection of cognitive abilities",
+        "The totality of emotional and behavioral characteristics that are unique to an individual",
+        "A fixed set of physical traits",
+        "A temporary mood state"
+      ],
+      "answer": "The totality of emotional and behavioral characteristics that are unique to an individual",
+      "explanation": "The chapter defines personality as the enduring set of emotional and behavioral characteristics that remain stable over time."
+    },
+    {
+      "question": "Which of the following is a common symptom observed in individuals with personality disorders?",
+      "choices": [
+        "Enhanced cognitive performance",
+        "Improved social adaptation",
+        "Impairment in interpersonal relationships",
+        "Increased energy levels"
+      ],
+      "answer": "Impairment in interpersonal relationships",
+      "explanation": "A major symptom in personality disorders is the impairment in interpersonal relationships, affecting social and occupational functioning."
+    },
+    {
+      "question": "What is the term for the defense mechanism in which an individual sees others as either all good or all bad?",
+      "choices": [
+        "Projection",
+        "Splitting",
+        "Denial",
+        "Reaction formation"
+      ],
+      "answer": "Splitting",
+      "explanation": "Splitting is the defense mechanism where individuals fail to integrate both positive and negative aspects of others, a hallmark in Borderline Personality Disorder."
+    },
+    {
+      "question": "Which personality disorder is characterized by pervasive mistrust and suspicion of others?",
+      "choices": [
+        "Schizoid personality disorder",
+        "Paranoid personality disorder",
+        "Borderline personality disorder",
+        "Dependent personality disorder"
+      ],
+      "answer": "Paranoid personality disorder",
+      "explanation": "Paranoid personality disorder is marked by constant mistrust and suspicion, with individuals often misinterpreting benign actions as threatening."
+    },
+    {
+      "question": "Borderline Personality Disorder is classified under which DSM-5-TR cluster?",
+      "choices": [
+        "Cluster A",
+        "Cluster B",
+        "Cluster C",
+        "None of the above"
+      ],
+      "answer": "Cluster B",
+      "explanation": "Cluster B includes dramatic, emotional, or erratic behaviors; Borderline Personality Disorder is one of the disorders in this cluster."
+    },
+    {
+      "question": "Which personality disorder is primarily associated with social withdrawal and emotional coldness?",
+      "choices": [
+        "Schizotypal personality disorder",
+        "Schizoid personality disorder",
+        "Avoidant personality disorder",
+        "Dependent personality disorder"
+      ],
+      "answer": "Schizoid personality disorder",
+      "explanation": "Schizoid personality disorder is characterized by a lack of interest in forming close relationships and limited emotional expression."
+    },
+    {
+      "question": "According to the developmental theories discussed, what is essential for normal personality development?",
+      "choices": [
+        "Exclusive dependence on one caregiver",
+        "Stable and nurturing relationships",
+        "High academic achievement",
+        "Strict disciplinary measures"
+      ],
+      "answer": "Stable and nurturing relationships",
+      "explanation": "The chapter emphasizes that consistent and supportive relationships in early life are critical for healthy personality development."
+    },
+    {
+      "question": "Which nursing intervention is appropriate for a patient with Borderline Personality Disorder exhibiting self-injurious behavior?",
+      "choices": [
+        "Encourage isolation to minimize triggers",
+        "Ignore the behavior to avoid reinforcement",
+        "Remove dangerous objects from the environment",
+        "Increase the frequency of staff-patient separation"
+      ],
+      "answer": "Remove dangerous objects from the environment",
+      "explanation": "Ensuring a safe environment by removing dangerous objects is a key intervention to prevent self-harm in patients with BPD."
+    },
+    {
+      "question": "Which predisposing factor is commonly associated with the development of Borderline Personality Disorder?",
+      "choices": [
+        "High socioeconomic status",
+        "Childhood trauma or neglect",
+        "Overachievement in academics",
+        "Strict physical fitness routines"
+      ],
+      "answer": "Childhood trauma or neglect",
+      "explanation": "A history of childhood trauma or neglect is a significant predisposing factor for the development of Borderline Personality Disorder."
+    },
+    {
+      "question": "Which characteristic best identifies Borderline Personality Disorder?",
+      "choices": [
+        "Stable self-image",
+        "Consistent interpersonal relationships",
+        "Intense and unstable interpersonal relationships",
+        "High impulse control"
+      ],
+      "answer": "Intense and unstable interpersonal relationships",
+      "explanation": "BPD is known for its hallmark of unstable and intense relationships along with marked emotional instability."
+    },
+    {
+      "question": "Which description best fits Narcissistic Personality Disorder?",
+      "choices": [
+        "A pervasive pattern of social inhibition",
+        "A pervasive pattern of grandiosity, need for admiration, and lack of empathy",
+        "A pervasive pattern of mistrust and suspicion",
+        "A pervasive pattern of excessive emotionality and attention-seeking"
+      ],
+      "answer": "A pervasive pattern of grandiosity, need for admiration, and lack of empathy",
+      "explanation": "Narcissistic Personality Disorder is defined by an inflated sense of self-importance, a need for admiration, and a lack of empathy."
+    },
+    {
+      "question": "Histrionic Personality Disorder is most often characterized by which type of behavior?",
+      "choices": [
+        "Social withdrawal",
+        "Attention-seeking and seductive behavior",
+        "Devaluation of relationships",
+        "Excessive dependency"
+      ],
+      "answer": "Attention-seeking and seductive behavior",
+      "explanation": "Histrionic Personality Disorder involves dramatic, attention-seeking, and sometimes seductive behaviors."
+    },
+    {
+      "question": "What distinguishes antisocial personality disorder from psychopathy according to the chapter?",
+      "choices": [
+        "Antisocial behavior is characterized by reactive aggression, while psychopathy is marked by callous and unemotional traits",
+        "Antisocial personality disorder is not related to legal issues",
+        "Psychopathy involves a lack of impulsivity",
+        "Antisocial personality disorder is only diagnosed in women"
+      ],
+      "answer": "Antisocial behavior is characterized by reactive aggression, while psychopathy is marked by callous and unemotional traits",
+      "explanation": "The chapter highlights that while both involve disregard for others, antisocial personality disorder tends to be reactive whereas psychopathy includes callousness and low fear."
+    },
+    {
+      "question": "Which nursing diagnosis is frequently associated with patients with Borderline Personality Disorder?",
+      "choices": [
+        "Risk for infection",
+        "Risk for self-mutilation",
+        "Risk for impaired mobility",
+        "Risk for nutritional imbalance"
+      ],
+      "answer": "Risk for self-mutilation",
+      "explanation": "Due to impulsive behaviors, self-mutilation is a common risk in patients with BPD, making it a frequent nursing diagnosis."
+    },
+    {
+      "question": "Which intervention is recommended for managing self-harming behaviors in patients with BPD?",
+      "choices": [
+        "Encourage the patient to self-manage without support",
+        "Isolate the patient to reduce stimuli",
+        "Provide factual wound care without reinforcing the behavior",
+        "Allow the behavior to continue to avoid confrontation"
+      ],
+      "answer": "Provide factual wound care without reinforcing the behavior",
+      "explanation": "Factual wound care that avoids additional reinforcement of self-harming behavior is a recommended intervention in BPD care."
+    },
+    {
+      "question": "What is the primary focus of Dialectical Behavior Therapy (DBT) when used to treat Borderline Personality Disorder?",
+      "choices": [
+        "Improving academic skills",
+        "Enhancing emotional regulation and interpersonal effectiveness",
+        "Eliminating all emotional responses",
+        "Increasing physical exercise only"
+      ],
+      "answer": "Enhancing emotional regulation and interpersonal effectiveness",
+      "explanation": "DBT focuses on teaching skills to better regulate emotions and improve interpersonal relationships, which are central challenges in BPD."
+    },
+    {
+      "question": "Which personality disorder is most commonly encountered in legal or correctional settings?",
+      "choices": [
+        "Borderline personality disorder",
+        "Dependent personality disorder",
+        "Antisocial personality disorder",
+        "Obsessive-compulsive personality disorder"
+      ],
+      "answer": "Antisocial personality disorder",
+      "explanation": "Antisocial personality disorder, due to its association with impulsivity, aggression, and legal issues, is frequently encountered in correctional settings."
+    },
+    {
+      "question": "A key characteristic of obsessive-compulsive personality disorder is:",
+      "choices": [
+        "Emotional expressiveness",
+        "Attention-seeking behavior",
+        "Preoccupation with orderliness and perfectionism",
+        "Social withdrawal"
+      ],
+      "answer": "Preoccupation with orderliness and perfectionism",
+      "explanation": "Obsessive-compulsive personality disorder is characterized by an excessive focus on orderliness, control, and perfectionism at the expense of flexibility."
+    },
+    {
+      "question": "Approximately what percentage of individuals with Borderline Personality Disorder have a history of self-harm?",
+      "choices": [
+        "About 10%",
+        "About 25%",
+        "About 50%",
+        "About 75%"
+      ],
+      "answer": "About 75%",
+      "explanation": "The chapter notes that around 75% of individuals with BPD have a history of self-mutilative behavior."
+    },
+    {
+      "question": "What is one rationale for using one-to-one observation for a patient with Borderline Personality Disorder?",
+      "choices": [
+        "To allow the patient to be left alone",
+        "To monitor and ensure the patient’s safety during high anxiety periods",
+        "To reduce staff workload",
+        "To encourage the patient to interact less"
+      ],
+      "answer": "To monitor and ensure the patient’s safety during high anxiety periods",
+      "explanation": "One-to-one observation is implemented to closely monitor the patient, ensuring safety and immediate intervention when self-harm risks increase."
+    },
+    {
+      "question": "Which factor is a predisposing factor for the development of Avoidant Personality Disorder?",
+      "choices": [
+        "High self-esteem",
+        "Childhood experiences of rejection or neglect",
+        "Overconfidence in social settings",
+        "Strict adherence to rules"
+      ],
+      "answer": "Childhood experiences of rejection or neglect",
+      "explanation": "Avoidant Personality Disorder is often linked to early negative social experiences, such as rejection or neglect, leading to hypersensitivity to criticism."
+    },
+    {
+      "question": "What role does genetics play in the development of personality disorders as described in the chapter?",
+      "choices": [
+        "Genetics has no influence on personality traits",
+        "Genetics determines personality completely",
+        "Genetics may predispose individuals to traits like impulsivity and affect lability",
+        "Genetics only affects physical appearance"
+      ],
+      "answer": "Genetics may predispose individuals to traits like impulsivity and affect lability",
+      "explanation": "The chapter explains that while environment plays a key role, genetic factors may predispose individuals to certain traits that contribute to personality disorders."
+    },
+    {
+      "question": "Which behavior is indicative of impaired interpersonal relationships in patients with Borderline Personality Disorder?",
+      "choices": [
+        "Consistent emotional stability",
+        "Alternating clinging and distancing behaviors",
+        "A balanced and secure attachment style",
+        "Lack of interest in any relationships"
+      ],
+      "answer": "Alternating clinging and distancing behaviors",
+      "explanation": "The pattern of clinging and then distancing is a typical manifestation of the unstable relationships seen in BPD."
+    },
+    {
+      "question": "What is an appropriate short-term goal for a patient with Borderline Personality Disorder in a nursing care plan?",
+      "choices": [
+        "Patient will achieve complete independence in all activities",
+        "Patient will seek out a staff member when feeling the urge to self-harm",
+        "Patient will disregard all interactions with staff",
+        "Patient will avoid discussing emotions"
+      ],
+      "answer": "Patient will seek out a staff member when feeling the urge to self-harm",
+      "explanation": "A key short-term goal is for the patient to engage help-seeking behaviors to ensure timely intervention during crises."
+    },
+    {
+      "question": "What does the concept of 'object constancy' refer to in the context of personality disorders?",
+      "choices": [
+        "The ability to remember past events clearly",
+        "The capacity to maintain an emotional bond with someone even when they are not present",
+        "The tendency to isolate oneself from others",
+        "The inclination to change one's opinions frequently"
+      ],
+      "answer": "The capacity to maintain an emotional bond with someone even when they are not present",
+      "explanation": "Object constancy is the ability to sustain an emotional connection despite physical absence, a capacity that is often impaired in patients with Borderline Personality Disorder."
+    }
+  ]
+}

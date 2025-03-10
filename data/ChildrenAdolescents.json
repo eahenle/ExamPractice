@@ -1,0 +1,279 @@
+{
+  "exam": [
+    {
+      "question": "Which of the following best defines intellectual developmental disorder as described in the DSM-5-TR?",
+      "choices": [
+        "A disorder with onset in adulthood with memory deficits and mood changes",
+        "A disorder with onset during the developmental period including deficits in intellectual and adaptive functioning",
+        "A disorder characterized solely by communication deficits",
+        "A disorder with onset during adolescence marked by aggression and impulsivity"
+      ],
+      "answer": "A disorder with onset during the developmental period including deficits in intellectual and adaptive functioning",
+      "explanation": "The DSM-5-TR defines intellectual developmental disorder as a condition that begins in the developmental period with deficits in both intellectual (cognitive and learning) and adaptive (self-care, communication, social) functioning."
+    },
+    {
+      "question": "Which factor is most commonly associated with disruptions in embryonic development that lead to intellectual disability?",
+      "choices": [
+        "Maternal smoking",
+        "Maternal ingestion of alcohol",
+        "Paternal age",
+        "Early childhood infections"
+      ],
+      "answer": "Maternal ingestion of alcohol",
+      "explanation": "Maternal ingestion of alcohol can lead to fetal alcohol syndrome, one of the leading preventable causes of intellectual disability due to its disruptive effects on embryonic development."
+    },
+    {
+      "question": "A nurse is planning care for a child with intellectual disability. Which nursing diagnosis is most appropriate based on common deficits in this population?",
+      "choices": [
+        "Risk for injury related to altered physical mobility",
+        "Ineffective airway clearance related to respiratory infection",
+        "Risk for imbalanced nutrition: less than body requirements",
+        "Ineffective thermoregulation related to environmental exposure"
+      ],
+      "answer": "Risk for injury related to altered physical mobility",
+      "explanation": "Children with intellectual disability often have altered physical mobility or may exhibit aggressive behaviors, both of which increase their risk for injury."
+    },
+    {
+      "question": "In developing a care plan for a child with intellectual disability, which outcome is most appropriate?",
+      "choices": [
+        "The child will be free from infection",
+        "The child will demonstrate increased independence in self-care",
+        "The child will gain weight",
+        "The child will have improved respiratory function"
+      ],
+      "answer": "The child will demonstrate increased independence in self-care",
+      "explanation": "One of the primary goals when caring for a child with intellectual disability is to promote self-care and enhance the child's independence in daily activities."
+    },
+    {
+      "question": "What criterion is used to determine the level of severity in intellectual disability?",
+      "choices": [
+        "The number of social interactions",
+        "The patient’s IQ score and adaptive functioning",
+        "The presence of mood swings",
+        "The frequency of seizures"
+      ],
+      "answer": "The patient’s IQ score and adaptive functioning",
+      "explanation": "Severity in intellectual disability is categorized as mild, moderate, severe, or profound based on IQ scores and levels of adaptive functioning (self-care, communication, and social skills)."
+    },
+    {
+      "question": "Which of the following is a primary characteristic of Autism Spectrum Disorder (ASD)?",
+      "choices": [
+        "Excessive need for social interaction",
+        "Deficits in social communication and repetitive behaviors",
+        "Rapid language development with advanced vocabulary",
+        "Normal communication with isolated mood disturbances"
+      ],
+      "answer": "Deficits in social communication and repetitive behaviors",
+      "explanation": "ASD is characterized by deficits in social interaction and communication, as well as by restrictive and repetitive patterns of behavior."
+    },
+    {
+      "question": "A child with ASD is most likely to exhibit which of the following communication patterns?",
+      "choices": [
+        "Advanced language skills compared to peers",
+        "Echolalia and deficits in nonverbal communication",
+        "Hyperverbal output with excessive detail",
+        "Absence of any repetitive verbal behavior"
+      ],
+      "answer": "Echolalia and deficits in nonverbal communication",
+      "explanation": "Children with ASD often demonstrate echolalia (repeating words or phrases) and may have significant deficits in both verbal and nonverbal communication."
+    },
+    {
+      "question": "Which medication is FDA-approved for treating irritability associated with Autism Spectrum Disorder in children?",
+      "choices": [
+        "Risperidone",
+        "Fluoxetine",
+        "Methylphenidate",
+        "Atomoxetine"
+      ],
+      "answer": "Risperidone",
+      "explanation": "Risperidone is approved by the FDA for the treatment of irritability in children and adolescents with ASD, helping to manage associated behavioral symptoms."
+    },
+    {
+      "question": "What is considered the gold standard nonpharmacological intervention for Autism Spectrum Disorder?",
+      "choices": [
+        "Cognitive Behavioral Therapy (CBT)",
+        "Applied Behavior Analysis (ABA)",
+        "Electroconvulsive Therapy (ECT)",
+        "Dialectical Behavioral Therapy (DBT)"
+      ],
+      "answer": "Applied Behavior Analysis (ABA)",
+      "explanation": "ABA is widely recognized as the gold standard behavioral treatment for ASD because it utilizes a reward-based, individualized approach to improve communication and social skills."
+    },
+    {
+      "question": "When caring for a child with Attention Deficit-Hyperactivity Disorder (ADHD), which nursing intervention is most appropriate to reduce the risk of injury?",
+      "choices": [
+        "Provide a quiet environment by reducing noise and distractions",
+        "Encourage participation in highly competitive sports",
+        "Increase exposure to stimulating activities",
+        "Allow the child to roam freely without supervision"
+      ],
+      "answer": "Provide a quiet environment by reducing noise and distractions",
+      "explanation": "Children with ADHD are often impulsive and hyperactive; reducing environmental noise and distractions helps lower the risk of injury by minimizing overstimulation."
+    },
+    {
+      "question": "Which neurotransmitter is primarily implicated in the pathophysiology of ADHD?",
+      "choices": [
+        "Serotonin",
+        "Dopamine",
+        "Gamma-aminobutyric acid (GABA)",
+        "Acetylcholine"
+      ],
+      "answer": "Dopamine",
+      "explanation": "ADHD is primarily associated with dysregulation of dopamine, which plays a key role in attention, reward processing, and impulse control."
+    },
+    {
+      "question": "A nurse is educating a parent about the use of CNS stimulants in treating ADHD. Which side effect should the parent be most aware of?",
+      "choices": [
+        "Increased appetite",
+        "Insomnia",
+        "Weight gain",
+        "Bradycardia"
+      ],
+      "answer": "Insomnia",
+      "explanation": "CNS stimulants such as amphetamines and methylphenidate commonly cause insomnia due to their stimulatory effects on the central nervous system."
+    },
+    {
+      "question": "Which nursing intervention is most appropriate to improve social interactions in a child with ADHD?",
+      "choices": [
+        "Encourage solitary activities",
+        "Provide clear, consistent behavioral expectations and positive reinforcement",
+        "Limit all social interactions",
+        "Avoid setting any limits to prevent frustration"
+      ],
+      "answer": "Provide clear, consistent behavioral expectations and positive reinforcement",
+      "explanation": "Consistent behavioral expectations and positive reinforcement help children with ADHD learn appropriate social behaviors and improve their interaction skills."
+    },
+    {
+      "question": "When assessing a child with intellectual disability, which domain is crucial to evaluate?",
+      "choices": [
+        "Only cognitive functioning",
+        "Only physical growth",
+        "Adaptive functioning, including self-care, communication, and social skills",
+        "Only emotional maturity"
+      ],
+      "answer": "Adaptive functioning, including self-care, communication, and social skills",
+      "explanation": "Assessment of intellectual disability includes evaluating adaptive functioning along with cognitive abilities to determine the child’s level of independence and need for support."
+    },
+    {
+      "question": "According to DSM-5-TR, for how long must ADHD symptoms persist for a diagnosis to be made?",
+      "choices": [
+        "At least 1 month",
+        "At least 3 months",
+        "At least 6 months",
+        "At least 12 months"
+      ],
+      "answer": "At least 6 months",
+      "explanation": "DSM-5-TR criteria for ADHD require that symptoms persist for a minimum of 6 months, interfering with functioning and being inconsistent with the child’s developmental level."
+    },
+    {
+      "question": "Why is family involvement critical in the care of children with neurodevelopmental disorders?",
+      "choices": [
+        "It increases the child’s dependence on the family",
+        "It minimizes the need for professional intervention",
+        "It helps set realistic expectations and supports consistent care",
+        "It allows the family to control all aspects of the child’s behavior"
+      ],
+      "answer": "It helps set realistic expectations and supports consistent care",
+      "explanation": "Family involvement is essential as it ensures caregivers understand the disorder, set realistic expectations, and provide consistent support to the child."
+    },
+    {
+      "question": "What is the primary rationale for maintaining one-to-one interactions with a child who has ASD?",
+      "choices": [
+        "To limit the child's exposure to social situations",
+        "To facilitate trust and help the caregiver understand the child's unique communication methods",
+        "To discourage any form of repetitive behavior",
+        "To accelerate academic performance"
+      ],
+      "answer": "To facilitate trust and help the caregiver understand the child's unique communication methods",
+      "explanation": "One-to-one interactions help build trust and allow the caregiver to learn the child’s unique cues and methods of communication, which is vital for effective intervention."
+    },
+    {
+      "question": "How can a nurse differentiate between ADHD and bipolar disorder in a pediatric patient?",
+      "choices": [
+        "ADHD symptoms are continuous while bipolar disorder symptoms are episodic",
+        "ADHD involves only hyperactivity",
+        "Bipolar disorder always begins in early childhood",
+        "ADHD is characterized solely by inattention"
+      ],
+      "answer": "ADHD symptoms are continuous while bipolar disorder symptoms are episodic",
+      "explanation": "ADHD typically presents with persistent, chronic symptoms, whereas bipolar disorder is marked by episodic mood changes and fluctuating symptom patterns."
+    },
+    {
+      "question": "When prescribing CNS stimulants for ADHD, which condition is a contraindication?",
+      "choices": [
+        "History of allergic reactions",
+        "Cardiac problems or risk factors for cardiac issues",
+        "High blood pressure controlled by medication",
+        "A family history of ADHD"
+      ],
+      "answer": "Cardiac problems or risk factors for cardiac issues",
+      "explanation": "CNS stimulants can increase heart rate and blood pressure, making them contraindicated in children with known cardiac problems or significant cardiac risk factors."
+    },
+    {
+      "question": "Which nonpharmacological strategy can help a child with ADHD manage task completion?",
+      "choices": [
+        "Concept mapping and breaking tasks into smaller, manageable steps",
+        "Allowing the child to complete tasks without any assistance",
+        "Increasing the number of tasks to challenge the child",
+        "Relying solely on verbal instructions without visual aids"
+      ],
+      "answer": "Concept mapping and breaking tasks into smaller, manageable steps",
+      "explanation": "Using concept mapping and breaking tasks into smaller steps helps organize the work, making it easier for children with ADHD to complete tasks successfully."
+    },
+    {
+      "question": "Which statement best describes Tourette’s disorder?",
+      "choices": [
+        "It includes only motor tics",
+        "Vocal tics are always more severe than motor tics",
+        "It is characterized by both motor and vocal tics that may fluctuate over time",
+        "It typically resolves completely by adolescence"
+      ],
+      "answer": "It is characterized by both motor and vocal tics that may fluctuate over time",
+      "explanation": "Tourette’s disorder is defined by the presence of multiple motor tics and at least one vocal tic, with the severity and frequency of tics varying over time."
+    },
+    {
+      "question": "Which environmental factor has been linked to the development of ADHD?",
+      "choices": [
+        "Exposure to excessive sunlight",
+        "Exposure to lead",
+        "Living in a rural area",
+        "A balanced diet"
+      ],
+      "answer": "Exposure to lead",
+      "explanation": "Exposure to lead is an environmental risk factor that has been associated with cognitive and behavioral deficits, contributing to the development of ADHD."
+    },
+    {
+      "question": "Which of the following is part of the DSM-5-TR criteria for Autism Spectrum Disorder?",
+      "choices": [
+        "Deficits in social communication and repetitive behaviors",
+        "Frequent mood swings and irritability",
+        "Impaired motor skills exclusively",
+        "Inattention and hyperactivity without repetitive behaviors"
+      ],
+      "answer": "Deficits in social communication and repetitive behaviors",
+      "explanation": "The DSM-5-TR criteria for ASD require the presence of persistent deficits in social communication along with restrictive and repetitive patterns of behavior."
+    },
+    {
+      "question": "Which nursing intervention is effective in promoting communication in a child with ASD?",
+      "choices": [
+        "Limiting all forms of nonverbal communication",
+        "Maintaining consistent caregiver assignments and using familiar cues",
+        "Ignoring nonverbal signals to encourage independence",
+        "Overloading the child with multiple stimuli"
+      ],
+      "answer": "Maintaining consistent caregiver assignments and using familiar cues",
+      "explanation": "Consistency in caregiver assignments and the use of familiar cues help build trust and facilitate effective communication with children with ASD."
+    },
+    {
+      "question": "When evaluating outcomes for a child with intellectual disability, which finding indicates progress?",
+      "choices": [
+        "Increased frequency of temper tantrums",
+        "Demonstrated improvement in self-care activities",
+        "Reduction in verbal communication",
+        "Increased dependence on caregivers"
+      ],
+      "answer": "Demonstrated improvement in self-care activities",
+      "explanation": "An improvement in self-care activities signifies progress towards greater independence, which is a key outcome when managing intellectual disability."
+    }
+  ]
+}

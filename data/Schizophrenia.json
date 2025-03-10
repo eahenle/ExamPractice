@@ -1,0 +1,154 @@
+{
+  "exam": [
+    {
+      "question": "Which of the following symptoms is considered a positive symptom of schizophrenia?",
+      "choices": ["Alogia", "Anhedonia", "Hallucinations", "Avolition"],
+      "answer": "Hallucinations",
+      "explanation": "Positive symptoms are those that are added to the clinical picture, such as hallucinations, delusions, and disorganized speech. Negative symptoms include alogia, anhedonia, and avolition."
+    },
+    {
+      "question": "Which neurotransmitter is most closely linked to the dopamine hypothesis in schizophrenia?",
+      "choices": ["Serotonin", "Glutamate", "Norepinephrine", "Dopamine"],
+      "answer": "Dopamine",
+      "explanation": "The dopamine hypothesis suggests that schizophrenia is related to excess dopamine activity in the brain, leading to psychotic symptoms."
+    },
+    {
+      "question": "A patient with schizophrenia exhibits a lack of motivation to initiate goal-directed activity. This symptom is known as:",
+      "choices": ["Alogia", "Anhedonia", "Avolition", "Echolalia"],
+      "answer": "Avolition",
+      "explanation": "Avolition is a negative symptom of schizophrenia characterized by a marked lack of motivation to engage in purposeful activities."
+    },
+    {
+      "question": "Clozapine is classified as which type of antipsychotic medication?",
+      "choices": ["First-generation (typical)", "Second-generation (atypical)", "Mood stabilizer", "Antidepressant"],
+      "answer": "Second-generation (atypical)",
+      "explanation": "Clozapine is an atypical antipsychotic that targets both dopamine and serotonin receptors and is known for its efficacy in treating both positive and negative symptoms."
+    },
+    {
+      "question": "The phase of schizophrenia characterized by subtle personality changes, social withdrawal, and poor academic performance is known as the:",
+      "choices": ["Prodromal phase", "Active psychotic phase", "Residual phase", "Premorbid phase"],
+      "answer": "Premorbid phase",
+      "explanation": "The premorbid phase occurs before the clear onset of schizophrenia and may include signs like social withdrawal and difficulties in school."
+    },
+    {
+      "question": "During which phase of schizophrenia does an individual begin to show noticeable deterioration in function along with depressive symptoms and possible obsessive-compulsive behavior?",
+      "choices": ["Premorbid phase", "Prodromal phase", "Active psychotic phase", "Residual phase"],
+      "answer": "Prodromal phase",
+      "explanation": "The prodromal phase is characterized by a change from previous functioning with emerging cognitive impairments, social withdrawal, and sometimes depressive or obsessive-compulsive symptoms."
+    },
+    {
+      "question": "Which of the following best defines psychosis as seen in schizophrenia?",
+      "choices": ["A state of enhanced cognitive ability", "A condition of organized thought and clear perception", "A severe mental state with loss of contact with reality", "A temporary mood disturbance"],
+      "answer": "A severe mental state with loss of contact with reality",
+      "explanation": "Psychosis is defined by a significant disconnection from reality, often involving hallucinations, delusions, and disorganized thinking."
+    },
+    {
+      "question": "According to the DSM-5-TR criteria, what is the minimum duration that symptoms must persist for a diagnosis of schizophrenia?",
+      "choices": ["1 month", "3 months", "6 months", "12 months"],
+      "answer": "6 months",
+      "explanation": "For a schizophrenia diagnosis, symptoms must be present for at least 6 months, including periods of active and residual symptoms."
+    },
+    {
+      "question": "What is the lifetime prevalence of schizophrenia in the general population?",
+      "choices": ["0.1%", "0.7%", "5%", "10%"],
+      "answer": "0.7%",
+      "explanation": "Schizophrenia has a lifetime prevalence of about 0.7% in the general population."
+    },
+    {
+      "question": "Which of the following is a negative symptom of schizophrenia?",
+      "choices": ["Delusions", "Hallucinations", "Flat affect", "Disorganized speech"],
+      "answer": "Flat affect",
+      "explanation": "Flat affect, or a lack of emotional expression, is classified as a negative symptom, whereas delusions, hallucinations, and disorganized speech are considered positive symptoms."
+    },
+    {
+      "question": "The term 'anosognosia' in schizophrenia refers to:",
+      "choices": ["Inability to express thoughts coherently", "Lack of insight about one's own illness", "Repetitive speech patterns", "Presence of hallucinations"],
+      "answer": "Lack of insight about one's own illness",
+      "explanation": "Anosognosia is a condition in which the patient is unaware of or denies having an illness, common in schizophrenia."
+    },
+    {
+      "question": "Which class of medications is primarily used to treat positive symptoms of schizophrenia?",
+      "choices": ["Antidepressants", "Mood stabilizers", "Typical antipsychotics", "Benzodiazepines"],
+      "answer": "Typical antipsychotics",
+      "explanation": "Typical (first-generation) antipsychotics are most effective in reducing positive symptoms, such as hallucinations and delusions, though they may cause extrapyramidal side effects."
+    },
+    {
+      "question": "A patient with schizophrenia is receiving an antipsychotic that has a high affinity for D4 receptors. This medication is likely:",
+      "choices": ["Haloperidol", "Chlorpromazine", "Clozapine", "Fluphenazine"],
+      "answer": "Clozapine",
+      "explanation": "Clozapine, an atypical antipsychotic, is known for its higher affinity for D4 receptors and is effective in treating both positive and some negative symptoms."
+    },
+    {
+      "question": "During which phase of schizophrenia are positive symptoms, such as hallucinations and delusions, most prominent?",
+      "choices": ["Premorbid phase", "Prodromal phase", "Active psychotic phase", "Residual phase"],
+      "answer": "Active psychotic phase",
+      "explanation": "The active psychotic phase is characterized by acute episodes during which positive symptoms become prominent."
+    },
+    {
+      "question": "Which of the following is a common environmental risk factor for schizophrenia?",
+      "choices": ["High socioeconomic status", "Prenatal exposure to influenza", "Stable family relationships", "Living in rural areas"],
+      "answer": "Prenatal exposure to influenza",
+      "explanation": "Epidemiological studies indicate that prenatal exposure to influenza is associated with an increased risk of developing schizophrenia later in life."
+    },
+    {
+      "question": "Delusions of control or influence are characterized by a patient believing that:",
+      "choices": ["They have a special connection with a famous person", "External forces control their behavior", "They are receiving secret messages from the environment", "Their thoughts are completely disorganized"],
+      "answer": "External forces control their behavior",
+      "explanation": "Delusions of control involve a belief that external objects or persons control one's actions or thoughts."
+    },
+    {
+      "question": "Which of the following brain imaging findings is most consistently associated with schizophrenia?",
+      "choices": ["Increased gray matter", "Ventricular enlargement", "Increased hippocampal volume", "Enhanced white matter integrity"],
+      "answer": "Ventricular enlargement",
+      "explanation": "Enlarged ventricles are one of the most consistent neuroimaging findings in individuals with schizophrenia."
+    },
+    {
+      "question": "Neologisms, as observed in some patients with schizophrenia, refer to:",
+      "choices": ["Newly invented words with personal meaning", "Rapid, repetitive speech", "Incoherent word salad", "Echolalia"],
+      "answer": "Newly invented words with personal meaning",
+      "explanation": "Neologisms are words that the patient invents that have meaning only to them, and they are a type of disorganized speech seen in schizophrenia."
+    },
+    {
+      "question": "Which of the following nursing interventions is appropriate for managing a patient experiencing auditory hallucinations?",
+      "choices": ["Argue with the patient about the reality of the voices", "Encourage the patient to describe the voices in detail", "Distract the patient with music or other stimuli", "Reinforce the patient’s belief in the hallucinations"],
+      "answer": "Distract the patient with music or other stimuli",
+      "explanation": "Using distraction techniques, such as listening to music, can help redirect the patient's focus away from distressing auditory hallucinations."
+    },
+    {
+      "question": "Schizophrenia is best described as:",
+      "choices": ["A disorder caused solely by genetic factors", "A multifactorial disorder influenced by genetics, biochemistry, and environment", "A disorder resulting only from poor parenting", "An illness exclusively caused by neurotransmitter imbalances"],
+      "answer": "A multifactorial disorder influenced by genetics, biochemistry, and environment",
+      "explanation": "Current research supports that schizophrenia results from a combination of genetic vulnerability, biochemical imbalances, brain structure abnormalities, and environmental factors."
+    },
+    {
+      "question": "A patient in the residual phase of schizophrenia is most likely to exhibit:",
+      "choices": ["Severe hallucinations and delusions", "A rapid onset of psychotic symptoms", "Persistent negative symptoms with diminished positive symptoms", "Abrupt recovery to full functioning"],
+      "answer": "Persistent negative symptoms with diminished positive symptoms",
+      "explanation": "In the residual phase, positive symptoms such as hallucinations and delusions are reduced, but negative symptoms like flat affect and social withdrawal often persist."
+    },
+    {
+      "question": "Echolalia is best defined as:",
+      "choices": ["Repeating one’s own words", "Mimicking the speech of others", "Inventing new words", "Speaking in a disorganized manner"],
+      "answer": "Mimicking the speech of others",
+      "explanation": "Echolalia refers to the automatic repetition of words or phrases spoken by another person and is a sign of thought disturbance."
+    },
+    {
+      "question": "The term 'word salad' is used to describe:",
+      "choices": ["A coherent narrative with complex vocabulary", "A rapid sequence of understandable sentences", "A disorganized jumble of words without logical connection", "A structured discussion about personal feelings"],
+      "answer": "A disorganized jumble of words without logical connection",
+      "explanation": "Word salad describes disorganized speech in which words are thrown together without any logical connection, making it difficult for others to understand."
+    },
+    {
+      "question": "When caring for a patient with delusional thinking, which approach is most appropriate for the nurse?",
+      "choices": ["Argue with the patient to prove the delusion is false", "Validate the patient’s feelings without confirming the delusion", "Ignore the delusional content completely", "Encourage the patient to act on the delusional beliefs"],
+      "answer": "Validate the patient’s feelings without confirming the delusion",
+      "explanation": "A therapeutic approach involves acknowledging the patient’s feelings without reinforcing the delusional belief, thus maintaining trust while not validating the false idea."
+    },
+    {
+      "question": "A patient with schizophrenia who neglects personal hygiene and lacks insight about his illness is best described by which nursing diagnosis?",
+      "choices": ["Disturbed thought processes", "Social isolation", "Risk for violence", "Ineffective health maintenance"],
+      "answer": "Ineffective health maintenance",
+      "explanation": "Ineffective health maintenance refers to the patient’s inability or unwillingness to engage in self-care behaviors, such as maintaining personal hygiene and recognizing the need for treatment."
+    }
+  ]
+}

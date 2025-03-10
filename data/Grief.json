@@ -1,0 +1,148 @@
+{
+  "exam": [
+    {
+      "question": "Which stage of the Kübler-Ross model is characterized by an inability to accept the reality of loss?",
+      "choices": ["Denial", "Anger", "Bargaining", "Acceptance"],
+      "answer": "Denial",
+      "explanation": "In the Kübler-Ross model, denial is the initial stage where individuals refuse to accept the reality of the loss, serving as a buffer against the emotional impact."
+    },
+    {
+      "question": "According to Worden’s tasks of mourning, which task involves working through the emotional pain associated with the loss?",
+      "choices": ["Accepting the reality of the loss", "Processing the pain of grief", "Adjusting to a world without the lost entity", "Finding an enduring connection with the lost entity"],
+      "answer": "Processing the pain of grief",
+      "explanation": "This task emphasizes allowing oneself to fully experience and work through the emotional pain that accompanies the loss."
+    },
+    {
+      "question": "A patient exhibiting persistent self-destructive behaviors, suicidal ideation, and severe self-blame after a loss is most likely experiencing which type of grief?",
+      "choices": ["Normal grief", "Delayed grief", "Maladaptive grief", "Anticipatory grief"],
+      "answer": "Maladaptive grief",
+      "explanation": "These symptoms indicate a pathological or maladaptive grief response, where the normal process of grieving is disrupted."
+    },
+    {
+      "question": "Which statement best describes anticipatory grief?",
+      "choices": ["It occurs only after a loss", "It occurs before the actual loss", "It is identical to denial", "It is a type of maladaptive grief"],
+      "answer": "It occurs before the actual loss",
+      "explanation": "Anticipatory grief involves experiencing grief-related emotions prior to the actual loss, often in situations like terminal illness."
+    },
+    {
+      "question": "Children aged 3-5 often exhibit which type of behavior when experiencing grief?",
+      "choices": ["Regressive behaviors and magical thinking", "Intense bargaining", "Social isolation", "Persistent depression"],
+      "answer": "Regressive behaviors and magical thinking",
+      "explanation": "Preschool children typically display regressive behaviors and engage in magical thinking as they struggle to understand the concept of death."
+    },
+    {
+      "question": "What is the primary goal of hospice care?",
+      "choices": ["To cure terminal illness", "To provide palliative care and improve quality of life", "To extend life expectancy indefinitely", "To prepare the patient for surgical interventions"],
+      "answer": "To provide palliative care and improve quality of life",
+      "explanation": "Hospice care focuses on palliative measures that enhance comfort and quality of life for terminally ill patients rather than on curative treatments."
+    },
+    {
+      "question": "Which professional typically acts as the case manager in hospice care?",
+      "choices": ["Physician", "Registered nurse", "Social worker", "Volunteer"],
+      "answer": "Registered nurse",
+      "explanation": "In hospice settings, the registered nurse often serves as the case manager, coordinating care among the interdisciplinary team."
+    },
+    {
+      "question": "What is the most appropriate intervention for a patient in the early stage of grief?",
+      "choices": ["Encourage the patient to suppress their emotions", "Discourage discussion of the loss", "Encourage open expression of feelings", "Immediately refer to long-term psychotherapy"],
+      "answer": "Encourage open expression of feelings",
+      "explanation": "Encouraging the patient to openly express their emotions can help them process the loss during the early stages of grief."
+    },
+    {
+      "question": "Which of the following is true regarding advance directives?",
+      "choices": ["They are optional and not legally binding", "They apply only to non-terminal conditions", "They are legally binding in all 50 states", "They require no periodic review"],
+      "answer": "They are legally binding in all 50 states",
+      "explanation": "Advance directives are legally binding documents across all 50 states and guide health-care decisions when the patient is incapacitated."
+    },
+    {
+      "question": "When assessing a bereaved older adult, a nurse should be particularly aware of which issue?",
+      "choices": ["Bargaining stage behavior", "Bereavement overload", "Exclusive anger responses", "Immediate acceptance of loss"],
+      "answer": "Bereavement overload",
+      "explanation": "Older adults often experience multiple losses over time, which can lead to bereavement overload and complicate the grieving process."
+    },
+    {
+      "question": "According to Bowlby’s model, which stage is characterized by a desperate urge to recover what has been lost?",
+      "choices": ["Numbness/Protest", "Disequilibrium", "Disorganization/Despair", "Reorganization"],
+      "answer": "Disequilibrium",
+      "explanation": "The disequilibrium stage in Bowlby’s model is marked by intense distress and a strong desire to regain the lost attachment."
+    },
+    {
+      "question": "In planning care for a bereaved patient, why is it important to consider the patient’s preferred death rituals?",
+      "choices": ["To enforce hospital policy", "To ensure culturally sensitive care", "To prioritize family preferences", "To expedite the mourning process"],
+      "answer": "To ensure culturally sensitive care",
+      "explanation": "Understanding a patient’s cultural and personal rituals related to death helps tailor care in a way that respects their beliefs and facilitates healing."
+    },
+    {
+      "question": "A hospice patient experiencing severe pain and emotional distress would benefit most from which intervention?",
+      "choices": ["Increasing pain medication only", "Focusing solely on physical comfort", "Providing interdisciplinary palliative care", "Isolating the patient to reduce stimulation"],
+      "answer": "Providing interdisciplinary palliative care",
+      "explanation": "An interdisciplinary approach in hospice care addresses physical, emotional, spiritual, and social needs, offering comprehensive support."
+    },
+    {
+      "question": "Which statement best differentiates normal grief from maladaptive grief?",
+      "choices": ["Normal grief always resolves within weeks", "Normal grief includes feelings of sadness while maintaining self-esteem", "Maladaptive grief is characterized solely by physical symptoms", "Maladaptive grief does not involve emotional pain"],
+      "answer": "Normal grief includes feelings of sadness while maintaining self-esteem",
+      "explanation": "While normal grief involves sadness, individuals usually retain their self-esteem; in maladaptive grief, self-esteem is significantly compromised."
+    },
+    {
+      "question": "A bereaved adolescent who exhibits withdrawal and acting-out behaviors may be demonstrating what?",
+      "choices": ["Normal grief processing", "Adaptive coping mechanisms", "Difficulty in processing grief", "A lack of emotional response"],
+      "answer": "Difficulty in processing grief",
+      "explanation": "Withdrawal and acting-out are common signs in adolescents that indicate challenges in coping with and processing the emotional impact of loss."
+    },
+    {
+      "question": "Which task in Worden’s model involves redefining daily life after a loss?",
+      "choices": ["Accepting the reality of the loss", "Processing the pain of grief", "Adjusting to a world without the lost entity", "Finding an enduring connection with the lost entity"],
+      "answer": "Adjusting to a world without the lost entity",
+      "explanation": "This task focuses on learning new ways to live and re-establishing routines and roles after the loss, thereby adapting to a changed reality."
+    },
+    {
+      "question": "For a patient exhibiting exaggerated grief, which intervention is most appropriate?",
+      "choices": ["Encourage avoidance of grief reminders", "Initiate immediate support group referral and counseling", "Advise the patient to suppress their emotions", "Ignore expressions of anger"],
+      "answer": "Initiate immediate support group referral and counseling",
+      "explanation": "Early intervention with counseling and support groups can help mitigate an exaggerated grief response and promote healthier coping strategies."
+    },
+    {
+      "question": "In the nursing process, which step specifically focuses on determining whether patient goals have been met?",
+      "choices": ["Assessment", "Planning", "Implementation", "Evaluation"],
+      "answer": "Evaluation",
+      "explanation": "Evaluation is the final step in the nursing process where the outcomes of the interventions are measured against the established goals."
+    },
+    {
+      "question": "Which symptom is more indicative of clinical depression rather than normal bereavement?",
+      "choices": ["Occasional tearfulness", "Persistent hopelessness and suicidal ideation", "Intermittent sadness", "Brief episodes of anger"],
+      "answer": "Persistent hopelessness and suicidal ideation",
+      "explanation": "While normal grief can include sadness, persistent hopelessness and suicidal thoughts are red flags for clinical depression."
+    },
+    {
+      "question": "Which nursing diagnosis directly addresses potential complications arising from a significant loss?",
+      "choices": ["Risk for impaired mobility", "Risk for infection", "Risk for nutritional imbalance", "Risk for maladaptive grieving"],
+      "answer": "Risk for maladaptive grieving",
+      "explanation": "This diagnosis focuses on identifying and managing factors that may lead to an unhealthy or pathological grief process."
+    },
+    {
+      "question": "Anticipatory grief may complicate a patient’s emotional response by causing which of the following?",
+      "choices": ["Delayed grieving after the loss", "Premature emotional detachment from the dying patient", "Overwhelming acceptance of the loss", "Increased focus on current emotions"],
+      "answer": "Premature emotional detachment from the dying patient",
+      "explanation": "Anticipatory grief can sometimes lead to detachment before the actual loss, which may interfere with the support needed by the dying patient."
+    },
+    {
+      "question": "Which interdisciplinary team member is most likely to provide bereavement counseling in a hospice setting?",
+      "choices": ["Registered nurse", "Social worker", "Physician", "Dietitian"],
+      "answer": "Social worker",
+      "explanation": "Social workers are trained to address psychosocial issues and provide bereavement counseling, making them a vital part of the hospice care team."
+    },
+    {
+      "question": "What is a recommended strategy to help a patient process their grief?",
+      "choices": ["Discourage discussion of painful memories", "Encourage journaling and open discussion of feelings", "Advise the patient to focus solely on physical recovery", "Limit the patient’s interactions with support groups"],
+      "answer": "Encourage journaling and open discussion of feelings",
+      "explanation": "Journaling and openly discussing emotions are effective methods for helping patients work through their grief and promote emotional healing."
+    },
+    {
+      "question": "Which evaluation question would be most appropriate when assessing a bereaved patient’s progress?",
+      "choices": ["Are you ready to forget the loss?", "Have you discussed your feelings about the loss with others?", "Do you feel that grief is unnecessary?", "Is it time to plan events without considering the loss?"],
+      "answer": "Have you discussed your feelings about the loss with others?",
+      "explanation": "This question helps determine whether the patient is actively processing their grief and engaging in supportive communication."
+    }
+  ]
+}

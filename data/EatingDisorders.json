@@ -1,0 +1,154 @@
+{
+  "exam": [
+    {
+      "question": "What is the reported lifetime prevalence of anorexia nervosa according to the chapter?",
+      "choices": ["0.5% - 1%", "2.4% - 4.3%", "10% - 12%", "15% - 20%"],
+      "answer": "2.4% - 4.3%",
+      "explanation": "Epidemiological studies in the chapter indicate that the lifetime prevalence for anorexia nervosa is approximately 2.4% to 4.3% across all ages and genders."
+    },
+    {
+      "question": "Which neurotransmitters are implicated in the regulation of eating behavior in individuals with eating disorders?",
+      "choices": ["Serotonin and dopamine", "Norepinephrine and GABA", "Acetylcholine and histamine", "Glutamate and glycine"],
+      "answer": "Serotonin and dopamine",
+      "explanation": "The chapter mentions evidence of serotonin and dopamine dysfunction in the hypothalamus, which plays a key role in hunger and satiety regulation."
+    },
+    {
+      "question": "What physical sign is commonly observed in patients with anorexia nervosa?",
+      "choices": ["Obesity", "Lanugo", "Hypertension", "Hyperthermia"],
+      "answer": "Lanugo",
+      "explanation": "Lanugo, which is fine, soft hair growth, is a common physical finding in patients with severe anorexia nervosa due to the body's response to malnutrition."
+    },
+    {
+      "question": "Which BMI range is typically associated with anorexia nervosa?",
+      "choices": ["BMI of 30 or greater", "BMI between 25 and 29.9", "BMI of 17 or lower", "BMI between 18.5 and 24.9"],
+      "answer": "BMI of 17 or lower",
+      "explanation": "Patients with anorexia nervosa usually present with a BMI of 17 or lower, indicating severe underweight status."
+    },
+    {
+      "question": "Which statement about bulimia nervosa is true based on the chapter content?",
+      "choices": ["Patients with bulimia nervosa are always underweight", "Patients with bulimia nervosa typically maintain a normal weight range", "Bulimia nervosa involves constant binging without any compensatory behavior", "Bulimia nervosa is more common in males than females"],
+      "answer": "Patients with bulimia nervosa typically maintain a normal weight range",
+      "explanation": "The chapter notes that individuals with bulimia nervosa are often within a normal weight range, even though they engage in binge eating and compensatory behaviors."
+    },
+    {
+      "question": "What is the key difference between binge eating disorder (BED) and bulimia nervosa (BN)?",
+      "choices": ["Frequency of binge episodes", "Presence of compensatory behaviors", "Age of onset", "Severity of depressive symptoms"],
+      "answer": "Presence of compensatory behaviors",
+      "explanation": "BED is differentiated from BN by the absence of compensatory behaviors such as self-induced vomiting or laxative abuse."
+    },
+    {
+      "question": "Which eating disorder is described as the most common in the chapter?",
+      "choices": ["Anorexia nervosa", "Bulimia nervosa", "Binge eating disorder", "Orthorexia nervosa"],
+      "answer": "Binge eating disorder",
+      "explanation": "Binge eating disorder is noted as the most common eating disorder, with an estimated prevalence of 2.8% in the U.S."
+    },
+    {
+      "question": "Which electrolyte abnormality is most concerning during refeeding of a malnourished patient?",
+      "choices": ["Hyperkalemia", "Hypophosphatemia", "Hypernatremia", "Hypercalcemia"],
+      "answer": "Hypophosphatemia",
+      "explanation": "Refeeding syndrome is associated with hypophosphatemia, which can lead to life-threatening complications if not carefully managed."
+    },
+    {
+      "question": "For a patient with anorexia nervosa who is unable to maintain adequate oral intake, which nursing intervention is most appropriate?",
+      "choices": ["Increase oral fluid intake", "Administer nasogastric tube feedings", "Encourage small, frequent meals", "Offer high-protein snacks exclusively"],
+      "answer": "Administer nasogastric tube feedings",
+      "explanation": "When patients are severely undernourished and unable or unwilling to eat, nasogastric tube feedings are used to ensure proper nutritional rehabilitation."
+    },
+    {
+      "question": "What is a key component of the Maudsley approach for treating adolescents with anorexia nervosa?",
+      "choices": ["Patient self-monitoring only", "Parental control of eating during the initial phase", "Strict dietary restrictions without family involvement", "Use of pharmacotherapy as the first-line treatment"],
+      "answer": "Parental control of eating during the initial phase",
+      "explanation": "The Maudsley approach involves parents taking charge of their adolescent's eating habits initially to promote weight restoration, which is later transitioned back to the patient."
+    },
+    {
+      "question": "Which physical finding is most indicative of self-induced vomiting in a patient with bulimia nervosa?",
+      "choices": ["Excessive lanugo", "Calluses on the dorsal surface of the hand", "Pale conjunctiva", "Hypertension"],
+      "answer": "Calluses on the dorsal surface of the hand",
+      "explanation": "Repeated self-induced vomiting often leads to calluses on the knuckles, known as Russell's sign."
+    },
+    {
+      "question": "A patient who refuses food and is significantly underweight would most likely be diagnosed with which nursing diagnosis?",
+      "choices": ["Imbalanced nutrition: Less than body requirements", "Ineffective coping", "Excess fluid volume", "Disturbed sensory perception"],
+      "answer": "Imbalanced nutrition: Less than body requirements",
+      "explanation": "Refusal to eat and significant weight loss are indicative of imbalanced nutrition: less than body requirements, a primary nursing diagnosis for anorexia nervosa."
+    },
+    {
+      "question": "Which outcome criterion is essential in evaluating the effectiveness of care for a patient with an eating disorder?",
+      "choices": ["Increased physical activity only", "Achievement and maintenance of an expected BMI", "Decreased frequency of hospital visits", "Complete elimination of all eating behaviors"],
+      "answer": "Achievement and maintenance of an expected BMI",
+      "explanation": "A key outcome is achieving and maintaining an expected BMI for the patient's age and body build, reflecting successful nutritional rehabilitation."
+    },
+    {
+      "question": "What is the most important consideration when reintroducing nutrition to a malnourished patient?",
+      "choices": ["Rapid reintroduction of a high-calorie diet", "Slow and controlled reintroduction of nutrition", "Exclusive use of parenteral nutrition", "Immediate use of appetite stimulants"],
+      "answer": "Slow and controlled reintroduction of nutrition",
+      "explanation": "A slow and controlled reintroduction helps prevent refeeding syndrome, which is characterized by electrolyte imbalances and other serious complications."
+    },
+    {
+      "question": "Which psychotherapeutic intervention is most commonly used to address the irrational thoughts and behaviors associated with eating disorders?",
+      "choices": ["Behavioral activation", "Cognitive Behavioral Therapy (CBT)", "Electroconvulsive therapy", "Hypnotherapy"],
+      "answer": "Cognitive Behavioral Therapy (CBT)",
+      "explanation": "CBT is frequently employed to help patients identify and modify irrational thoughts and behaviors that contribute to disordered eating."
+    },
+    {
+      "question": "What is the primary goal of behavior modification programs in treating eating disorders?",
+      "choices": ["To allow complete patient autonomy over food choices", "To eliminate all forms of physical activity", "To restore control through structured eating and exercise programs", "To encourage rapid weight loss"],
+      "answer": "To restore control through structured eating and exercise programs",
+      "explanation": "Behavior modification programs aim to provide a structured environment that helps patients regain control over their eating behaviors and physical activity."
+    },
+    {
+      "question": "Which medication has been approved by the FDA for the short-term treatment of binge eating disorder?",
+      "choices": ["Fluoxetine", "Topiramate", "Lisdexamfetamine", "Amitriptyline"],
+      "answer": "Lisdexamfetamine",
+      "explanation": "Lisdexamfetamine (Vyvanse) is approved for the short-term treatment of binge eating disorder and helps reduce the frequency of binge episodes."
+    },
+    {
+      "question": "Which comorbid condition is most frequently associated with eating disorders?",
+      "choices": ["Asthma", "Diabetes mellitus type 2", "Mood disorders", "Osteoarthritis"],
+      "answer": "Mood disorders",
+      "explanation": "Mood disorders, such as depression and anxiety, are commonly seen as comorbid conditions in patients with eating disorders."
+    },
+    {
+      "question": "What does amenorrhea indicate in the context of anorexia nervosa?",
+      "choices": ["It is a normal finding in underweight patients", "It indicates advanced weight loss and hormonal imbalance", "It is unrelated to the eating disorder", "It is a sign of excessive exercise only"],
+      "answer": "It indicates advanced weight loss and hormonal imbalance",
+      "explanation": "Amenorrhea, or the absence of menstruation, is a sign of advanced weight loss and reflects the hormonal disturbances seen in anorexia nervosa."
+    },
+    {
+      "question": "Which finding during an assessment would most strongly suggest self-induced vomiting?",
+      "choices": ["Red, swollen gums", "Dental caries and enamel erosion", "Hypertrophy of the masseter muscles", "Excessive salivation"],
+      "answer": "Dental caries and enamel erosion",
+      "explanation": "Repeated exposure of teeth to stomach acid due to self-induced vomiting leads to dental caries and enamel erosion, making it a key indicator."
+    },
+    {
+      "question": "What is a primary role of the nurse in the management of patients with eating disorders?",
+      "choices": ["To solely provide pharmacologic interventions", "To establish a therapeutic relationship and support behavior change", "To focus only on nutritional aspects", "To enforce strict dietary restrictions without addressing emotional needs"],
+      "answer": "To establish a therapeutic relationship and support behavior change",
+      "explanation": "Nurses are essential in developing trust, educating patients, and supporting both the nutritional and emotional aspects of recovery from eating disorders."
+    },
+    {
+      "question": "Which topic is most appropriate for patient and family education in managing an eating disorder?",
+      "choices": ["The benefits of unrestricted diets", "How to recognize and manage triggers for binging and purging", "Elimination of all carbohydrates", "Importance of avoiding any form of physical activity"],
+      "answer": "How to recognize and manage triggers for binging and purging",
+      "explanation": "Educating patients and families about recognizing triggers and developing adaptive coping strategies is critical for long-term management of eating disorders."
+    },
+    {
+      "question": "When a patient exhibits food hoarding behavior, what is the most appropriate nursing intervention?",
+      "choices": ["Allow the hoarding as a coping mechanism", "Educate the patient and family about the risks and monitor behavior", "Ignore the behavior if the patient appears otherwise healthy", "Immediately institute an involuntary feeding program"],
+      "answer": "Educate the patient and family about the risks and monitor behavior",
+      "explanation": "Food hoarding can indicate underlying anxiety or maladaptive coping. Educating and monitoring the behavior is an appropriate intervention rather than punitive measures."
+    },
+    {
+      "question": "Which complication is a common reason for hospitalization in patients with eating disorders?",
+      "choices": ["Mild weight loss", "Severe electrolyte imbalances", "Stable vital signs", "Controlled purging behaviors"],
+      "answer": "Severe electrolyte imbalances",
+      "explanation": "Severe electrolyte imbalances, along with dehydration and cardiac arrhythmias, are critical complications that often necessitate hospitalization."
+    },
+    {
+      "question": "In the Maudsley Approach, what role does the family play in the treatment of adolescents with anorexia nervosa?",
+      "choices": ["The adolescent is solely responsible for their recovery", "The family is actively involved in meal supervision and weight restoration", "Family involvement is discouraged to protect patient privacy", "Only siblings are involved in the treatment process"],
+      "answer": "The family is actively involved in meal supervision and weight restoration",
+      "explanation": "The Maudsley Approach is a family-centered treatment model where parents or family members take an active role in supervising meals and assisting with weight restoration."
+    }
+  ]
+}
